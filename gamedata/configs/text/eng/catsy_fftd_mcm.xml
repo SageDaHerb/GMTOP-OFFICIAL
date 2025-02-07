@@ -31,7 +31,7 @@
 	</string>
 
 	<string id="st_pda_backpack_travel_to">
-		<text>Backpack travel to</text>
+		<text>Backpack Travel to</text>
 	</string>
 
 	<string id="ui_mcm_fftd_gen_skillsystem_enabled">
@@ -683,49 +683,49 @@
 			%c[pda_red]Still having difficulties? Scroll down for troubleshooting information.\n
 			%c[ui_gray_2]
 			\n%c[pda_green]FEATURE LIST\n
-			%c[pda_yellow]• Better Trip Durations%c[ui_gray_2]
+			%c[pda_yellow]Â• Better Trip Durations%c[ui_gray_2]
 			\nBy default, travel within the same map consistently takes 10 minutes per 100m of distance (configurable in MCM), and--unlike vanilla Anomaly--has no random element. This is roughly equal to the time it would take to travel the same distance at the character's normal in-game walking speed--it assumes that you are neither sprinting nor being unduly delayed. Travel to other maps uses the same formula, but can be customized separately.\n \n
 
-			%c[pda_yellow]• Better Context Menu UI%c[ui_gray_2]
+			%c[pda_yellow]Â• Better Context Menu UI%c[ui_gray_2]
 			\nWhen right-clicking on a map icon, the fast travel option will now also tell you how far away it is, and approximately how long it will take to get there and (if applicable) how much it will cost.\n \n
 
-			%c[pda_yellow]• Guided Travel from PDA Map%c[ui_gray_2]
+			%c[pda_yellow]Â• Guided Travel from PDA Map%c[ui_gray_2]
 			\nThe Zone is full of veteran guides of all factions who are willing to carry your loot or come to your aid--for a price. Now you can hire them by right-clicking on the map to go to any valid fast travel point. Hired guides are assumed to bring provisions for the journey, and your survival stats are paused during the trip. What's more, guided travel will ignore the "wounded" and "overweight" rules, if either are enabled in Anomaly's base game settings.\n \n
 
-			%c[pda_yellow]• NPC Guide Travel Overhaul%c[ui_gray_2]
+			%c[pda_yellow]Â• NPC Guide Travel Overhaul%c[ui_gray_2]
 			\nIf you installed this option, NPC guides have been completely overhauled to bring them in line with the rest of the fast travel system--with details such as duration and cost fully managed by Fair Fast Travel. Travelling with a hired NPC guide now takes time just like any other fast travel trip, and obey all of Guide Travel's settings--including pausing your survival stats.\n \n
 
-			%c[pda_yellow]• Optional Equipment Condition Loss%c[ui_gray_2]
+			%c[pda_yellow]Â• Optional Equipment Condition Loss%c[ui_gray_2]
 			\nWhether it's from taking a stray bullet or the fact that you had to fire one, most journeys in the Zone leave their mark on your equipment in the form of normal wear and tear. If you wish, FFT lets you simulate this by applying a configurable amount of condition loss to your equipped items, with separate values for every travel type. Setting it to zero will disable the feature, and like everything else it is configurable in MCM.\n \n
 
-			%c[pda_yellow]• Configurable Cooldowns%c[ui_gray_2]
+			%c[pda_yellow]Â• Configurable Cooldowns%c[ui_gray_2]
 			\nEach of the three fast travel types can now be configured with a cooldown of up to two hours before that travel type can be used again. The remaining duration will always be shown in the context menu option. Each travel type can have its own separate cooldown, or you can link them all so that when one cooldown is triggered, they all are. Of course, all cooldowns are optional--and off by default.\n \n
 
-			%c[pda_yellow]• Restrict Travel to Friendly Bases Only%c[ui_gray_2]
+			%c[pda_yellow]Â• Restrict Travel to Friendly Bases Only%c[ui_gray_2]
 			\nThis optional feature can separately restrict each travel type so that the player can only initiate travel when they are within a friendly base. This preserves the QoL of fast travel while preventing the player from cheaply teleporting out of anomaly fields or other dangers. Everything is configurable, including whether an appropriate faction disguise will "fool" this feature.\n \n
 
-			%c[pda_yellow]• Campfire Travel Options, Travel Indicator%c[ui_gray_2]
+			%c[pda_yellow]Â• Campfire Travel Options, Travel Indicator%c[ui_gray_2]
 			\nCampfires can optionally be used as fast travel destinations. By default, this is enabled only for Guide Travel, in order to represent the value added by a guide's knowledge of local routes. If you're using the option that restricts fast travel to bases only, you can now optionally choose to have lit campfires count as friendly bases for travel purposes as well. If installed, the feature also has an optional status indicator that will show when you're currently in a valid travel zone.\n \n
 
-			%c[pda_yellow]• Gate Northern Travel Behind Story Progress%c[ui_gray_2]
+			%c[pda_yellow]Â• Gate Northern Travel Behind Story Progress%c[ui_gray_2]
 			\nIf you're playing as most factions in Story Mode, and the Brain Scorcher hasn't been disabled yet, certain guide and fast travel routes will be unavailable until you shut off the Monolith's science toys. Of course, like anything else, you can turn this off in MCM.\n \n
 
-			%c[pda_yellow]• Filter Out Debug Mapspots%c[ui_gray_2]
+			%c[pda_yellow]Â• Filter Out Debug Mapspots%c[ui_gray_2]
 			\nMany of us play Anomaly in Debug Mode for troubleshooting purposes, but playing in that mode enables unrestricted fast travel to any visible map icon--even to things like level transitions or traders that aren't supposed to be destinations, often resulting in accidents like teleporting behind the Barkeep or to the wrong icon. By default, FFT filters out all of these invalid mapspots while Debug Mode is on--but if you do actually want them, there's an option in MCM to re-enable them.\n \n
 
-			%c[pda_yellow]• Better Combat Detection%c[ui_gray_2]
+			%c[pda_yellow]Â• Better Combat Detection%c[ui_gray_2]
 			\nWhen deciding whether you're in combat for travel purposes, FFT uses Anomaly's list of NPCs in combat, but filters out any that are more than 100 meters away, or which haven't seen you in the last ten seconds.\n \n
 
-			%c[pda_yellow]• Skill System Integration%c[ui_gray_2]
+			%c[pda_yellow]Â• Skill System Integration%c[ui_gray_2]
 			\nIf you have Haruka's %c[pda_white]Skill System%c[ui_gray_2] or one of the expansion addons built upon it, you can optionally choose to have Fair Fast Travel adjust all travel times based on the modifier from your Endurance skill.\n \n
 
-			%c[pda_yellow]• Personal Adjustable Waypoint Pin Travel%c[ui_gray_2]
+			%c[pda_yellow]Â• Personal Adjustable Waypoint Pin Travel%c[ui_gray_2]
 			\nIf you have my %c[pda_white]Personal Adjustable Waypoint%c[ui_gray_2] addon, you can now optionally allow fast travel to Quick Pin markers that you've placed in the world, letting you set up custom fast travel points virtually anywhere that you can reach!\n \n
 
-			%c[pda_yellow]• Western Goods Support%c[ui_gray_2]
+			%c[pda_yellow]Â• Western Goods Support%c[ui_gray_2]
 			\nThe latest version of the %c[pda_white]Western Goods%c[ui_gray_2] addon includes a dynamic guide feature which adds several new guides and allows others to be easily added. Fair Fast Travel is compatible with this feature straight out of the box, with no settings or installation options necessary. Western Goods guides will calculate and show distance and travel time just like any other.\n \n
 
-			%c[pda_yellow]• Disguise Bugfix%c[ui_gray_2]
+			%c[pda_yellow]Â• Disguise Bugfix%c[ui_gray_2]
 			\nFFT fixes a vanilla Anomaly bug that causes your disguise to be exposed if you fast travel in front of an NPC with the "consider time spent near NPCs" option enabled.\n \n
 			
 			--------------------------------------------------------------------------------\n \n
@@ -736,7 +736,7 @@
 			%c[pda_red]Q: %c[pda_white]Why can't I fast travel to a pin I placed using Personal Adjustable Waypoint?\n
 			%c[pda_green]A: %c[pda_white]Only Quick Pins can be used as destinations, because they can only be placed in spots where the player can reach. If this is a Quick Pin, then Pin Travel is not enabled in MCM for this travel type.\n \n
 
-			%c[pda_red]••• IMPORTANT: To report any bug, you must do the following: •••\n \n
+			%c[pda_red]Â•Â•Â• IMPORTANT: To report any bug, you must do the following: Â•Â•Â•\n \n
 			%c[pda_white]1. Go to %c[pda_yellow]MCM > Fair Fast Travel > General\n
 			%c[pda_white]2. Enable %c[pda_yellow]Debug logging%c[pda_white] and %c[pda_yellow]Verbose logging\n
 			%c[pda_white]3. Exit and restart the game\n
