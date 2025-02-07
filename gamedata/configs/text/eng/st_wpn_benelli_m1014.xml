@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_benelli_m1014">
+		<text>M1014</text>
+	</string>
+	<string id="st_wpn_benelli_m1014_descr">
+		<text>A robust and versatile semi-automatic shotgun, perfect for close-quarters combat. With its rapid-fire capability, powerful spread and durable design, the M1014 excels in offering a dependable weapon to clear rooms or fend off threats with brutal force.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Italy\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Benelli\n
+		</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	WEAPONS ATTACHMENTS
+-->
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>PSO-1</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n	
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]LED Toggle\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>1P29 Tulip</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Soviet Union\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>ACOG 2.8x</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]2.8x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>PSO-1M2-1</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]LED Toggle\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_specterDR">
+		<text>ELCAN SpecterDR</text>
+	</string>
+	<string id="st_addon_scope_specterDR_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Raytheon ELCAN\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x or 4.0x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]LED Toggle\n \n		
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso2">
+		<text>PSO-1М</text>
+	</string>
+	<string id="st_addon_scope_pso2_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]LED Toggle\n \n			
+		</text>
+	</string>
+		
+	<string id="st_addon_scope_1p59">
+		<text>1P59 Giperon</text>
+	</string>
+	<string id="st_addon_scope_1p59_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Various Manufacturers\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]3.0x - 10.0x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]LED Toggle\n \n			
+		</text>
+	</string>	
+	
+	<string id="st_addon_scope_1pn93">
+		<text>1PN93-4 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_1pn93_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 3.7x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]Night Vision Toggle\n \n				
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_leupold">
+		<text>Leupold Mark 8</text>
+	</string>
+	<string id="st_addon_scope_leupold_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 8.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pn23">
+		<text>PN-23 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_pn23_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]KULA\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]3.8x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]Night Vision Toggle\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_marchf">
+		<text>March Tactical 3-24x42 FFP</text>
+	</string>
+	<string id="st_addon_scope_marchf_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Japan\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]DEON Optical Design\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]3.0x - 24.0x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]LED Toggle\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pgo7gs">
+		<text>PGO-7</text>
+	</string>
+	<string id="st_addon_scope_pgo7gs_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Soviet Union\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]LED Toggle\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_susat">
+		<text>SUSAT</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United Kingdom\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Avimo\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_gauss_sight">
+		<text>EOTS-62 Thermal Sight</text>
+	</string>
+	<string id="st_addon_scope_gauss_sight_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Ukraine\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]REDACTED\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 10.0x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]Thermal Toggle\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p78gs">
+		<text>1P78 Kashtan</text>
+	</string>
+	<string id="st_addon_scope_1p78gs_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Factory\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]2.8x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1pn93n2_1gs">
+		<text>1PN93-1 Thermal Sight</text>
+	</string>
+	<string id="st_addon_scope_1pn93n2_1gs_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n			
+		</text>
+	</string>
+
+	<string id="st_addon_scope_usp1">
+		<text>1P29 Tulpan</text>
+	</string>
+	<string id="st_addon_scope_usp1_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_trijicon_rmr">
+		<text>Trijicon-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_trijicon_rmr_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG BAC 5.56 BDC sight\n
+		%c[d_cyan] • %c[ui_gray_2] Canted red dot sight\n \n
+		</text>
+	</string>	
+	
+	<string id="st_addon_scope_mark8_rmr">
+		<text>Mark 8-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_mark8_rmr_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Leupold Mark 8 CQBSS sight\n
+		%c[d_cyan] • %c[ui_gray_2] Canted red dot sight\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_spec_alt">
+		<text>SpecterDR-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_spec_alt_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Canted red dot sight\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_kashtan_rmr">
+		<text>Kashtan-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_kashtan_rmr_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Tochpribor 1P78 Kashtan sight\n
+		%c[d_cyan] • %c[ui_gray_2] Canted red dot sight\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_psicho_rmr">
+		<text>PSO-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_psicho_rmr_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] BelOMO PSO-1М2-1 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Canted red dot sight\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_susatov">
+		<text>SUSAT 4.0x Sight</text>
+	</string>
+	<string id="st_addon_scope_susatov_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United Kingdom\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Royal Armament Research Development\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_march_f_shorty">
+		<text>March F Shorty 1x-8x24mm LPVO</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Japan\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]DEON Optical Design\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 8.0x\n \n
+		</text>		
+	</string>	
+
+
+	<string id="st_addon_scope_march_f_shorty_alt">
+		<text>March F Shorty-Red Dot Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_alt_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] March F Shorty 1x-8x24mm LPVO\n
+		%c[d_cyan] • %c[ui_gray_2] Canted red dot sight\n \n
+		</text>		
+	</string>
+	
+	<string id="st_addon_scope_lco1">
+		<text>LCO Leupold Carbine Optic</text>
+	</string>
+	<string id="st_addon_scope_lco1_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_e0t2_mag">
+		<text>Eotech XPS3 w/ Eotech G33 6x Magnifier</text>
+	</string>
+	<string id="st_addon_scope_e0t2_mag_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]EOTech\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]6.0x\n \n
+		</text>
+	</string>
+	
+	
+	<string id="st_addon_scope_razor_mag">
+		<text>Vortex Optics Razor AMG UH-1 w/ Eotech G33 6x Magnifier</text>
+	</string>
+	<string id="st_addon_scope_razor_mag_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]EOTech & Vortex\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]6.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_razor">
+		<text>Vortex Optics Razor AMG UH-1 Gen. II</text>
+	</string>
+	<string id="st_addon_scope_razor_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Vortex\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_exps3">
+		<text>Eotech EXPS3</text>
+	</string>
+	<string id="st_addon_scope_exps3_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]EOTech\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_he510">
+		<text>Holosun HE510C</text>
+	</string>
+	<string id="st_addon_scope_he510_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Holosun\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_bravo4">
+		<text>SIG Sauer BRAVO4</text>
+	</string>
+	<string id="st_addon_scope_bravo4_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Germany\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]SIG Sauer\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_hamr">
+		<text>Leupold Mark 4 HAMR</text>
+	</string>
+	<string id="st_addon_scope_hamr_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_razorhd">
+		<text>Vortex Optics Razor HD Gen II</text>
+	</string>
+	<string id="st_addon_scope_razorhd_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Vortex\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 6.0x\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_devo">
+		<text>Leupold D-EVO Offset Optic w/ LCO Red Dot</text>
+	</string>
+	<string id="st_addon_scope_devo_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 6.0x\n \n
+		%c[d_cyan] • %c[pda_white] %c[ui_gray_2]LED Toggle\n \n			
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_side">
+		<text>Winchester Side Mount Scope</text>
+	</string>
+	<string id="st_addon_scope_side_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Winchester\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_romeo">
+		<text>Sig Sauer ROMEO4 Red Dot Sight</text>
+	</string>
+	<string id="st_addon_scope_romeo_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Germany\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]SIG Sauer\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>	
+
+	<string id="st_cortex_scope">
+		<text>Cortex Optic LPVO</text>
+	</string>
+	<string id="st_cortex_scope_desc">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Various\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 12.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_cmore">
+        <text>C-MORE Tactical Sight</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]C-More Systems\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+    </string>
+
+	<string id="st_addon_scope_zf4">
+		<text>ZF-4 Scope</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Germany\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Germany\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kp_sr2">
+		<text>KP-SR2 Reflex Sight</text>
+	</string>
+	<string id="st_addon_scope_kp_sr2_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SR-2M Veresk\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_gee36">
+		<text>G36 Integrated Scope</text>
+	</string>
+	<string id="st_addon_scope_gee36_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Germany\n\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]H&K\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]3.0x\n \n
+		</text>
+	</string>
+	
+</string_table>

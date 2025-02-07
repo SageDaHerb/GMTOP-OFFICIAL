@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<!-- Sorter -->
+	<string id="st_ui_craft_artefacts_container">
+		<text>Artefacts (In Containers)</text>
+	</string>
+    <string id="st_item_use_empower">
+		<text>Empower Artefacts</text>
+	</string>
+	<string id="st_item_use_fuse">
+		<text>Fuse Artefacts</text>
+	</string>
+	<string id="st_item_use_craft">
+		<text>Open Workbench</text>
+	</string>	
+    <string id="st_ui_itm_repair_support_grok_artefacts">
+		<text>Artefact (Melting)</text>
+	</string>
+    <string id="st_ui_itm_repair_base_grok_artefacts">
+		<text>Artefact (Empowering)</text>
+	</string>
+
+    <string id="st_melter">
+		<text>Artefact Melter</text>
+	</string>
+    <string id="st_melter_desc">
+		<text>A strange and high-tech device created by Pr. Sakharov that allows the manipulation of artefacts. Fueled using the energy held by such marvels, the Artefact Melter can also strengthen artefacts of the same kind, or even fuse artefacts of different kinds to generate new ones. The chemical and physical processes at work are not fully understood yet but recent research is pointing towards the device's ability to apparently harness the Noosphere's power.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Artefact Melting: %c[ui_gray_2] Hold the 'left-alt' key and move the Artefact Melter over any artefact to melt it and refill the AM tank. The more unique the artefact, the more power will be recovered.\n
+		%c[d_orange] • %c[pda_white] Artefact Empowering: %c[ui_gray_2] Choose "Empower Artefact" in the AMOS main menu to combine artefacts of the same kind to strenghten them.\n
+		%c[d_orange] • %c[pda_white] Artefact Fusion: %c[ui_gray_2] Choose "Fuse Artefact" in the AMOS main menu and open the recipe sub-menu to generate a new artefact from 2 or more artefacts. The resulting artefact with have the average condition of the ones used in the fusion. The AMOS contains already known and *secure* artefact combinations.\n
+		%c[d_cyan] • %c[pda_white]NOTE: %c[ui_gray_2]AMOS has built-in security protocols to avoid malfunctions. If the tool refuses to work, be sure that the AM tank holds more than 10% (1 use) of its total capacity.\n
+		</text>
+	</string>
+
+	<string id="st_grizzly">
+		<text>Grizzly Detector</text>
+	</string>
+		<string id="st_grizzly_desc">
+		<text>This anomalous activity detector is an updated version of the Bear detector and is able to detect all known artefacts signatures just like the Svarog or Veles detectors. This specific model is especially appreciated by stalkers hunting artefacts during the night as its simple display is compatible with the use of night vision googles.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[pda_white] • %c[pda_white] Tier IV+\n
+		%c[d_orange] • %c[pda_white] Detects All Artefacts Including Scientifically Unknown Artefacts\n
+		%c[d_cyan] • %c[pda_white] NOTE: %c[ui_gray_2]May be used simultaneously with night vision goggles.\n
+		</text>
+	</string>
+	
+</string_table>

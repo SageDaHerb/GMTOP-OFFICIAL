@@ -1,0 +1,15 @@
+
+<string_table>
+
+	<string id="st_wpn_mp155">
+		<text>MP-155</text>
+	</string>
+	<string id="st_wpn_mp155_descr">
+		<text>The Baikal MP-155 is a semi-automatic shotgun with a 750mm smoothbore barrel. It began production in 2011 and is a popular choice among Russian hunters. This version, likely smuggled into the zone, has been upgraded with a magazine tube extension.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[0,255,255,255] Manufacturer: %c[ui_gray_2]Izhmash\n
+		</text>
+	</string>
+
+</string_table>

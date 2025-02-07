@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+
+	<string id="st_craft_used_for">
+		<text>%c[d_orange] • %c[pda_white] Crafting Uses: %c[ui_gray_2]</text>
+	</string>
+	<string id="st_craft_unlocks">
+		<text>%c[d_orange] • %c[pda_white] Crafting Unlocks: %c[ui_gray_2]</text>
+	</string>
+	<string id="st_cook_used_for">
+		<text>%c[d_orange] • %c[pda_white] Cooking Uses: %c[ui_gray_2]</text>
+	</string>
+	<string id="ui_mcm_craft_in_tooltip_title">
+		<text>Crafting Info in Tooltip</text>
+	</string>
+	<string id="ui_mcm_menu_craft_in_tooltip">
+		<text>Crafting Info In Tooltips</text>
+	</string>
+	<string id="ui_mcm_craft_in_tooltip_use_icons">
+		<text>Show Item Icons</text>
+	</string>
+	<string id="ui_mcm_craft_in_tooltip_use_icons_desc">
+		<text>Shows the icons of craftable items instead of their name.</text>
+	</string>
+	
+</string_table>

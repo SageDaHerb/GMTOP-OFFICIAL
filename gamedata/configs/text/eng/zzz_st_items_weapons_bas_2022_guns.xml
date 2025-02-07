@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_adar2_15">
+		<text>ADAR 2-15</text>
+	</string>
+	<string id="st_wpn_adar2_15_descr">
+		<text>A Russian civilian carbine produced in St. Petersburg and based on the design of the AR-15. As in the case of many other companies that make AR-15s, ADAR doesn’t manufacture these rifles but rather assembles them from parts sourced from a variety of manufacturers. \n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Molot Oruzhie\n
+		</text>
+	</string>
+
+	<string id="st_wpn_pkp_siber">
+		<text>PKP Pecheneg</text>
+	</string>
+	<string id="st_wpn_pkp_siber_descr">
+		<text>A modernized PKM machine gun chambered for the 7.62x54mm round, said to be more accurate than all its predecessors due to a heavier, non-removable forced air-cooling barrel with radial cooling ribs and a unique handle which eliminates the haze effect from hot gases. Currently in use by Russian Army Spetsnaz and, though it was developed mainly for infantry use, is often fitted to light vehicles.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russian\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Mikhail Kalashnikov\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_pkm_siber">
+		<text>PKM</text>
+	</string>
+	<string id="st_wpn_pkm_siber_descr">
+		<text>A modernized and improved version of the PK, the PKM's upgrades were primarily aimed at reducing weight, facilitating easier operation and simplifying production. A very reliable machine gun that remains in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Soviet Union\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Degtyaryov Plant\n
+		</text>
+	</string>
+
+	<string id="st_wpn_pkm_zenit_siber">
+		<text>PKM "Zenit"</text>
+	</string>
+	<string id="st_wpn_pkm_zenit_siber_descr">
+		<text>A modernized and improved version of the PK, the PKM's upgrades were primarily aimed at reducing weight, facilitating easier operation and simplifying production. A very reliable machine gun that remains in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces. This model has been extensively modified with a Picatinny rail, vertical foregrip, muzzle brake, and laser designator, along with internal modifications to increase weapon fire rate.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Soviet Union\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]TsNIITochMash, Degtyaryov Plant\n
+		</text>
+	</string>
+
+</string_table>

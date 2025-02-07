@@ -1,0 +1,25 @@
+<string_table>
+
+	<string id="st_porn">
+		<text>Terroraiser Magazine</text>
+	</string>
+	<string id="st_porn_descr">
+		<text>A Ukrainian heavy metal magazine written in Russian and published by Dark Arts Ltd. Within can be found exclusive interviews for bands such as: DEICIDE, KORPIKLAANI, BLEED FROM WITHIN, DARK MILLENIUM and many others as well as festival reports such as Wacken and Black Sea Metal Fest. Though defunct as of 2018, it's still an enjoyable read and a good way to pass downtime.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Recreational\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2]Passing Time\n
+		</text>
+	</string>
+
+	<string id="st_porn2">
+		<text>Atmosfear Magazine</text>
+	</string>
+	<string id="st_porn2_descr">
+		<text>A Ukrainian heavy metal magazine written in Russian. Features a glossy cover and dozens of pages of professional printing with original interviews of bands such as: MOONSORROW, NIGHTRAGE, CALIBAN, BUTTERFLY TEMPLE and many more. Within are a total of over 200 reviews covering the latest releases in all styles of heavy metal music. An enjoyable read and a good way to pass downtime.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Recreational\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2]Passing Time\n
+		</text>
+	</string>
+
+</string_table>

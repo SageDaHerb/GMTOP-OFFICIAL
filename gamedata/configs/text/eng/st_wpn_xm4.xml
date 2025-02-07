@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_xm4">
+		<text>XM177e2</text>
+	</string>
+	<string id="st_wpn_xm4_descr">
+		<text>The XM177E2 commando; a retro classic carbine built to the original colt model 629 specifications from the 1960s. The 11.5 inch barrel has an extended flash hider designed to replicate the original moderator that was so iconic for this model. Cutting no corners, the original vinyl-acetate coated aluminum buttstock and US property marked rollmarks, this is a true collectible that's as comfortable on the range as it will be in on the field.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Colt's Manufacturing LLC\n
+		</text>
+	</string>
+
+</string_table>
