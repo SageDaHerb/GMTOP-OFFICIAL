@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    
+	<string id="st_mag_aug_9x19_fmj">
+		<text>Standard 9x19 AUG Magazine</text>
+	</string>
+	<string id="st_mag_aug_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+	
+</string_table>

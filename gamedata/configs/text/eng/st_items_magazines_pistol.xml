@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_mag_aps_9x18_fmj">
+		<text>9x18 APS Magazine</text>
+	</string>
+	<string id="st_mag_aps_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_aps_9x19_fmj">
+		<text>Modified 9x19 APS Magazine</text>
+	</string>
+	<string id="st_mag_aps_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_beretta_9x19_fmj">
+		<text>9x19 Beretta 92F Magazine</text>
+	</string>
+	<string id="st_mag_beretta_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_beretta_9x18_fmj">
+		<text>Modified 9x18 Beretta 92F Magazine</text>
+	</string>
+	<string id="st_mag_beretta_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+
+	<string id="st_mag_colt1911_11.43x23_fmj">
+		<text>.45 ACP Colt 1911 Magazine</text>
+	</string>
+	<string id="st_mag_colt1911_11.43x23_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_colt_kimber_11.43x23_fmj">
+		<text>.45 ACP Colt Kimber Magazine</text>
+	</string>
+	<string id="st_mag_colt_kimber_11.43x23_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_cz52_7.62x25_p">
+		<text>7.62x25 CZ-52 Magazine</text>
+	</string>
+	<string id="st_mag_cz52_7.62x25_p_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_cz75_9x19_fmj">
+		<text>9x19 CZ-75 Magazine</text>
+	</string>
+	<string id="st_mag_cz75_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_cz75_9x18_fmj">
+		<text>Modified 9x18 CZ-75 Magazine</text>
+	</string>
+	<string id="st_mag_cz75_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_desert_eagle_357_hp">
+		<text>.357 Desert Eagle Magazine</text>
+	</string>
+	<string id="st_mag_desert_eagle_357_hp_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_fn57_5.7x28_ss190">
+		<text>5.7x28 Five-seveN Magazine</text>
+	</string>
+	<string id="st_mag_fn57_5.7x28_ss190_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_fnp45_11.43x23_fmj">
+		<text>.45 ACP FNP-45 Magazine</text>
+	</string>
+	<string id="st_mag_fnp45_11.43x23_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_fnx45_11.43x23_fmj">
+		<text>.45 ACP FNX-45 Magazine</text>
+	</string>
+	<string id="st_mag_fnx45_11.43x23_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_fort_9x18_fmj">
+		<text>9x18 Fort-17 Magazine</text>
+	</string>
+	<string id="st_mag_fort_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_fort_9x19_fmj">
+		<text>Modified 9x19 Fort-17 Magazine</text>
+	</string>
+	<string id="st_mag_fort_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_glock_9x19_fmj">
+		<text>9x19 Glock Magazine</text>
+	</string>
+	<string id="st_mag_glock_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_glock_9x18_fmj">
+		<text>Modified 9x18 Glock Magazine</text>
+	</string>
+	<string id="st_mag_glock_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_gsh18_9x19_fmj">
+		<text>9x19 Gsh-18 Magazine</text>
+	</string>
+	<string id="st_mag_gsh18_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_hpsa_9x19_fmj">
+		<text>9x19 Browning Hi-Power Magazine</text>
+	</string>
+	<string id="st_mag_hpsa_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_hpsa_9x18_fmj">
+		<text>Modified 9x18 Browning Hi-Power Magazine</text>
+	</string>
+	<string id="st_mag_hpsa_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_mp443_9x19_fmj">
+		<text>9x19 MP-443 Magazine</text>
+	</string>
+	<string id="st_mag_mp443_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_mp443_9x18_fmj">
+		<text>Modified 9x18 MP-443 Magazine</text>
+	</string>
+	<string id="st_mag_mp443_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_oc33_9x18_fmj">
+		<text>9x18 OTs-33 Pernach Magazine</text>
+	</string>
+	<string id="st_mag_oc33_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_oc33_9x19_fmj">
+		<text>Modified 9x19 OTs-33 Pernach Magazine</text>
+	</string>
+	<string id="st_mag_oc33_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_pm_9x18_fmj">
+		<text>9x18 PM Magazine</text>
+	</string>
+	<string id="st_mag_pm_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_pm_9x19_fmj">
+		<text>Modified 9x19 PM Magazine</text>
+	</string>
+	<string id="st_mag_pm_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_pmm_9x18_fmj">
+		<text>9x18 PMM Magazine</text>
+	</string>
+	<string id="st_mag_pmm_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_pmm_9x19_fmj">
+		<text>Modified 9x19 PMM Magazine</text>
+	</string>
+	<string id="st_mag_pmm_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_pp2000_9x19_fmj">
+		<text>9x19 PP-2000 Magazine</text>
+	</string>
+	<string id="st_mag_pp2000_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_pp2000_9x18_fmj">
+		<text>Modified 9x18 PP-2000 Magazine</text>
+	</string>
+	<string id="st_mag_pp2000_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_sig220_11.43x23_fmj">
+		<text>.45 ACP SIG Sauer P220 Magazine</text>
+	</string>
+	<string id="st_mag_sig220_11.43x23_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_tt33_7.62x25_p">
+		<text>7.62x25 TT-33 Magazine</text>
+	</string>
+	<string id="st_mag_tt33_7.62x25_p_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_usp_11.43x23_fmj">
+		<text>.45 ACP USP Magazine</text>
+	</string>
+	<string id="st_mag_usp_11.43x23_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_usp_9x19_fmj">
+		<text>9x19 USP Magazine</text>
+	</string>
+	<string id="st_mag_usp_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_walther_9x19_fmj">
+		<text>9x19 Walther P99 Magazine</text>
+	</string>
+	<string id="st_mag_walther_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<!-- begin smgs -->
+
+	<string id="st_mag_bizon_9x18_fmj">
+		<text>9x18 PP-19 Magazine</text>
+	</string>
+	<string id="st_mag_bizon_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_bizon_9x19_fmj">
+		<text>Modified 9x19 PP-19 Magazine</text>
+	</string>
+	<string id="st_mag_bizon_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_bizon_7.62x25_p">
+		<text>Modified 7.62x25 PP-19 Magazine</text>
+	</string>
+	<string id="st_mag_bizon_7.62x25_p_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_kiparis_9x18_fmj">
+		<text>9x18 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_kiparis_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_kiparis_9x19_fmj">
+		<text>Modified 9x19 Kiparis Magazine</text>
+	</string>
+	<string id="st_mag_kiparis_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_vityaz_9x19_fmj">
+		<text>9x19 Vityaz-SN Magazine</text>
+	</string>
+	<string id="st_mag_vityaz_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_vityaz_9x18_fmj">
+		<text>Modified 9x18 Vityaz-SN Magazine</text>
+	</string>
+	<string id="st_mag_vityaz_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_vz61_9x19_fmj">
+		<text>9x19 vz.61 Magazine</text>
+	</string>
+	<string id="st_mag_vz61_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_vz61_9x18_fmj">
+		<text>Modified 9x18 vz.61 Magazine</text>
+	</string>
+	<string id="st_mag_vz61_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+	
+	<string id="st_mag_p90_5.7x28_ss190">
+		<text>5.7x28 P90 Magazine</text>
+	</string>
+	<string id="st_mag_p90_5.7x28_ss190_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+	
+	<string id="st_mag_ppsh41_7.62x25_p">
+		<text>7.62x25 PPSh41 Drum Magazine</text>
+	</string>
+	<string id="st_mag_ppsh41_7.62x25_p_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_mp5_9x19_fmj">
+		<text>9x19 MP5 Magazine</text>
+	</string>
+	<string id="st_mag_mp5_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_mp5_9x18_fmj">
+		<text>Modified 9x18 MP5 Magazine</text>
+	</string>
+	<string id="st_mag_mp5_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_mp7_9x19_fmj">
+		<text>MP7 9x19 Magazine</text>
+	</string>
+	<string id="st_mag_mp7_9x19_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_mp7_9x18_fmj">
+		<text>Modified 9x18 MP7 Magazine</text>
+	</string>
+	<string id="st_mag_mp7_9x18_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_mp5_11.43x23_fmj">
+		<text>.45 ACP "Frasier" MP5 Magazine</text>
+	</string>
+	<string id="st_mag_mp5_11.43x23_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+
+	<string id="st_mag_ump45_11.43x23_fmj">
+		<text>.45 ACP UMP Magazine</text>
+	</string>
+	<string id="st_mag_ump45_11.43x23_fmj_descr">
+		<text>%c[pda_white]PROPERTIES:</text>
+	</string>
+	
+</string_table>

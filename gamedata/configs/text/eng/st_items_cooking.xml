@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_matches">
+		<text>Firestarter Set</text>
+	</string>
+	<string id="st_matches_descr">
+		<text>A simple set of pine wood, impregnated with resin. The firestarter set allows creating a small but steady hearth fire. Easy to light, even when wet!\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2]Start Fire\n
+		</text>
+	</string>
+	
+	<string id="st_wood_stove">
+		<text>Hexagonal Wood Stove</text>
+	</string>
+	<string id="st_wood_stove_descr">
+		<text>This compact foldable oven is intended for cooking single entree meals with dry wood. However, since wood found within the Zone is far too contaminated to be used for this purpose, stalkers rely on imported charcoal as the cheapest and most widely available burnable fuel. The stove can produce temperatures sufficient to grill less poisoned mutant meat, but preparing more toxic meat requires the utilization of more advanced equipment.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Fuel: %c[ui_gray_2]Charcoal\n
+		%c[d_orange] • %c[pda_white] Cooks: %c[ui_gray_2]Only Lesser Mutant Meat\n
+		</text>
+	</string>
+	
+	<string id="st_cooking">
+		<text>Field Cooking Kit</text>
+	</string>
+	<string id="st_cooking_descr">
+		<text>A kit containing cooking accessories and utensils for use when camping and travelling. Unwieldy due to its heavy weight but still very popular among groups of stalkers. The Cooking Kit can produce temperatures sufficient to grill less poisoned mutant meat, but preparing more toxic meat requires the utilization of more advanced equipment.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Fuel: %c[ui_gray_2]Charcoal\n
+		%c[d_orange] • %c[pda_white] Cooks: %c[ui_gray_2]Only Lesser Mutant Meat\n
+		</text>
+	</string>
+	
+	<string id="st_army_bowler">
+		<text>Army Kettle</text>
+	</string>
+	<string id="st_army_bowler_descr">
+		<text>A convinient kettle used for preparing and heating meals. The bowl cover can be used as a pan when heating or preparing a dish, with the handle of the lid designed to hold it. A tablespoon is also inserted into special holes on the handle.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Fuel: %c[ui_gray_2]Charcoal\n
+		%c[d_orange] • %c[pda_white] Cooks: %c[ui_gray_2]Only Lesser Mutant Meat\n
+		</text>
+	</string>
+	
+	<string id="st_fieldcooker">
+		<text>Gas Stove</text>
+	</string>
+	<string id="st_fieldcooker_descr">
+		<text>To be used exclusively with commonly found fuels within the Zone, this stove can cook up anything you throw at it. Unfortunately, these fuels are usually carried in heavy metal containers, making this stove more suited for use at bases, rather than out in the field.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Fuel: %c[ui_gray_2]Gasoline, Jerrycan, Kerosene\n
+		%c[d_orange] • %c[pda_white] Cooks: %c[ui_gray_2]All Mutant Meat\n
+		</text>
+	</string>
+	
+	<string id="st_box_matches">
+		<text>Matchbox</text>
+	</string>
+	<string id="st_box_matches_descr">
+		<text>A box of matches. Very valuable within the zone.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2]Start Fire, Light Cigarette\n
+		</text>
+	</string>
+	
+	<string id="st_kerosene">
+		<text>Kerosene</text>
+	</string>
+	<string id="st_kerosene_descr">
+		<text>A combustible hydrocarbon liquid derived from petroleum. Widely used as fuel.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Cooking Fuel\n
+		</text>
+	</string>
+	
+	<string id="st_charcoal">
+		<text>Charcoal</text>
+	</string>
+	<string id="st_charcoal_descr">
+		<text>Charcoal from hardwood timber.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Cooking Fuel\n
+		</text>
+	</string>
+
+	<string id="st_fuel_tier_1">
+		<text>All Flammables</text>
+	</string>
+	<string id="st_fuel_tier_1_desc">
+		<text>
+		%c[d_blue] • %c[pda_white] Campfire\n
+		%c[d_blue] • %c[pda_white] Charcoal\n
+		%c[d_blue] • %c[pda_white] Gas Balloon\n
+		%c[d_blue] • %c[pda_white] Jerrycan\n
+		%c[d_blue] • %c[pda_white] Kerosene\n
+		</text>
+	</string>
+	
+	<string id="st_fuel_tier_2">
+		<text>Liquid Fuel Only</text>
+	</string>
+	<string id="st_fuel_tier_2_desc">
+		<text>
+		%c[d_blue] • %c[pda_white] Kerosene\n
+		%c[d_blue] • %c[pda_white] Jerrycan\n
+		%c[d_blue] • %c[pda_white] Gas Balloon\n
+		</text>
+	</string>
+
+</string_table>

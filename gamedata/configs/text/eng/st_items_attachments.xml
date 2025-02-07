@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_af_surge_name">
+		<text>Surge Suppressor</text>
+	</string>
+	<string id="st_af_surge_descr">
+		<text>A small, albeit advanced device that absorbs electrical energy from its closest surroundings. It serves as a protection of sorts as it limits the amount of electricity that comes into direct contact with the body by either blocking or shorting it to ground. This results in the user being hit by a significantly lower voltage, providing the ability to survive outbursts which would normally be lethal.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+	<string id="st_af_surge_up_name">
+		<text>Improved Surge Suppressor</text>
+	</string>
+	<string id="st_af_surge_up_descr">
+		<text>A small, albeit advanced device that absorbs electrical energy from its closest surroundings. It serves as a protection of sorts as it limits the amount of electricity that comes into direct contact with the body by either blocking or shorting it to ground. This results in the user being hit by a significantly lower voltage, providing the ability to survive outbursts which would normally be lethal. This surge suppressor is comprised of a rather complex set of electronic circuits and valuable radio components that further increase electrical resistance.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+	<string id="st_af_frames_name">
+		<text>Aluminium Frames</text>
+	</string>
+	<string id="st_af_frames_descr">
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, aluminum frames can be attached to optimise carrying capabilities. Made of lightwight aluminium and some external plastic elements to attain the desired flexibility while sprinting, the whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. A single set of frames may replace only the main framework of a backpack, but it's possible to use more sets to further improve carrying capabilities.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+	<string id="st_af_frames_up_name">
+		<text>Improved Aluminium Frames</text>
+	</string>
+	<string id="st_af_frames_up_descr">
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, aluminum frames can be attached to optimise carrying capabilities. Made of lightwight aluminium and some external plastic elements to attain the desired flexibility while sprinting, the whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. A single set of frames may replace only the main framework of a backpack, but it's possible to use more sets to further improve carrying capabilities. The aluminum frames in this set have been tempered for further performance.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+	<string id="st_af_grid_name">
+		<text>Titanium Grid</text>
+	</string>
+	<string id="st_af_grid_descr">
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, titanium frames can be attached to optimise carrying capabilities. Made of high grade titanium and some external plastic elements to attain the desired flexibility while sprinting, the whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. A single set of frames may replace only the main framework of a backpack, but it's possible to use more sets to further improve carrying capabilities. The aluminum frames in this set have been tempered for further performance.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+	<string id="st_af_grid_up_name">
+		<text>Improved Titanium Grid</text>
+	</string>
+	<string id="st_af_grid_up_descr">
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, titanium frames can be attached to optimise carrying capabilities. Made of high grade titanium and some external plastic elements to attain the desired flexibility while sprinting, the whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. A single set of frames may replace only the main framework of a backpack, but it's possible to use more sets to further improve carrying capabilities. The aluminum frames in this set have been tempered for further performance. The titanium frames in this set have been tempered for further performance.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+	<string id="st_af_freon_name">
+		<text>Freon Emission Module</text>
+	</string>
+	<string id="st_af_freon_descr">
+		<text>Designed to maintain a constant body temperature of 24 degrees Celsius (75 degrees Fahrenheit) by emitting a thick layer of freon-cooled air particles which produce a miniscule vacuum absorbing any excess heat. It is thus extremely useful to minimize the effects of extreme heat in situations requiring additional protection. Another feature of the device is its ability to resist electricity to a moderate extent.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+	<string id="st_af_freon_up_name">
+		<text>Improved Freon Emission Module</text>
+	</string>
+	<string id="st_af_freon_up_descr">
+		<text>An improved design set to maintain a constant body temperature of 20 degrees Celsius (68 degrees Fahrenheit) by emitting a thick layer of freon-cooled air particles which produce a miniscule vacuum absorbing any excess heat. It is thus extremely useful to minimize the effects of extreme heat in situations requiring additional protection. Another feature of the device is its ability to resist electricity to a moderate extent.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+
+	<string id="st_af_cooler_name">
+		<text>Body Cooler</text>
+	</string>
+	<string id="st_af_cooler_descr">
+		<text>An electric module designed to maintain a constant body temperature of 18 degrees Celsius (64 degrees Fahrenheit) by emitting quick electrical impulses which produce a miniscule vacuum absorbing any excess heat. It is thus extremely useful in order to minimize the effects of extreme heat in situations requiring additional protection. Another feature of the devuce is its ability to resist electricity to a moderate extent.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+	<string id="st_af_cooler_up_name">
+		<text>Improved Body Cooler</text>
+	</string>
+	<string id="st_af_cooler_up_descr">
+		<text>An improved design set to maintain a constant body temperature of 14 degrees Celsius (57 degrees Fahrenheit) by emitting quick electrical impulses which produce a miniscule vacuum absorbing any excess heat. It is thus extremely useful in order to minimize the effects of extreme heat in situations requiring additional protection. Another feature of the devuce is its ability to resist electricity to a moderate extent.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_name">
+		<text>Kevlar Plates &amp; Attachments</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>Widely known for their protective capabilities, these plates perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates, while additionally helping to maintain suits in good condition, preventing degradation through wear and tear.\n \n
+		%c[d_orange]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] +0 BR Class (Per Unit)\n
+		%c[d_cyan] • %c[pda_white] NOTE: %c[ui_gray_2]Protection only applied to Arms, Legs and Torso\n
+		</text>
+	</string>
+
+	<string id="st_af_kevlar_up_name">
+		<text>Improved Kevlar Plates &amp; Attachments</text>
+	</string>
+	<string id="st_af_kevlar_up_descr">
+		<text>Widely known for their protective capabilities, these plates perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates, while additionally helping to maintain suits in good condition, preventing degradation through wear and tear. These Kevlar plates have been further reinforced to provide better structural integrity.\n \n
+		%c[d_orange]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] +1 BR Class (Per Unit)\n
+		%c[d_cyan] • %c[pda_white] NOTE: %c[ui_gray_2]Protection only applied to Arms, Legs and Torso\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>Carbon Steel Plates</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>Specially crafted, heat treated and shaped for ballistic defeating properties, fitting a wide variety of protective applications. They are designed to withstand smaller ballistic impacts on the front and back of the torso. This protection, however, comes at a price as the thick steel plates are very heavy, thus limiting freedom of movement. Additionally, armor plating helps maintain suits in good condition, preventing degradation through wear and tear.\n \n
+		%c[d_orange]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] +2 BR Class (Per Unit)\n
+		%c[d_cyan] • %c[pda_white] NOTE: %c[ui_gray_2]Protection only applied to Arms, Legs and Torso\n
+		</text>
+	</string>
+
+	<string id="st_af_plates_up_name">
+		<text>Improved Carbon Steel Plates</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>Specially crafted, heat treated and shaped for ballistic defeating properties, fitting a wide variety of protective applications. They are designed to withstand smaller ballistic impacts on the front and back of the torso. This protection, however, comes at a price as the thick steel plates are very heavy, thus limiting freedom of movement. Additionally, armor plating helps maintain suits in good condition, preventing degradation through wear and tear. These carbon steel plates have been further reinforced to provide better structural integrity.\n \n
+		%c[d_orange]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] +3 BR Class (Per Unit)\n
+		%c[d_cyan] • %c[pda_white] NOTE: %c[ui_gray_2]Protection only applied to Arms, Legs and Torso\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_name">
+		<text>Camelbak</text>
+	</string>
+	<string id="st_af_camelbak_descr">
+		<text>Borrowing its name from the myth that camels store water in their humps, the camelbak is a pack worn on the back or around the waist, containing a bladder that is filled with water used for hydration. A flexible tube with mouthpiece facilitates use even in the most pressing situations.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+	<string id="st_af_camelbak_up_name">
+		<text>Improved Camelbak</text>
+	</string>
+	<string id="st_af_camelbak_up_descr">
+		<text>Borrowing its name from the myth that camels store water in their humps, the camelbak is a pack worn on the back or around the waist, containing a bladder that is filled with water used for hydration. A flexible tube with mouthpiece facilitates use even in the most pressing situations. This model is reinforced for structural rigidity.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+
+<!-- UNUSED
+
+	<string id="st_af_iam_name">
+		<text>Improvised Application Module (Empty)</text>
+	</string>
+	<string id="st_af_iam_descr">
+		<text>The Improvised Application Module (IAM) filters a small amount of radiation particles emitted from artefacts. This mechanical metal pouch is the cheapest device that allows the user to harness the power of less potent artefacts. Artefact filter is composed of multiple layers made primarily of lead which shield from radiation. A low-cost alternative to the more reliable AAC and AAM. In case of emergency or if no longer needed, the module can be utilised as a source of quality metal for use in outfit or helmet repairs. Currently unusable. To attach it to the belt, you have to put an artefact inside. The artefact will retain its characteristics with the exception of reduced radiation output. Due to its low quality, the IAM is only able to block beta particles. Formed by all artefacts, beta particles are able to damage skin in a similar way to a burn.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[pda_white] • %c[pda_white] maximum capacity:%c[ui_gray_2] 1\n
+		%c[pda_white] • %c[pda_white] protects from the following radioactive emissions:\n
+		%c[d_blue]   - beta particles\n
+		%c[pda_white] • %c[pda_white] state:%c[ui_gray_2] empty\n
+		</text>
+	</string>
+	
+	<string id="st_af_aac_name">
+		<text>Artefact Application Container (empty)</text>
+	</string>
+	<string id="st_af_aac_descr">
+		<text>The Artefact Application Container (AAC) filters a moderate amount of radiation particles emitted from artefacts. This mechanical aluminium container is the most cost-efficient and thus the most popular way of handling artefacts as it allows the user to harness the power of more potent artefacts. Artefact filter is composed of multiple layers made primarily of lead, with one layer of thorium which has strong radiation shielding properties. This device has been manufactured by scientists residing in military bunkers around the Zone. In case of emergency or if no longer needed, the module can be utilised as a source of quality metal for use in outfit or helmet repairs. Currently unusable. To attach it to the belt, you have to put an artefact inside. The artefact will retain its characteristics with the exception of reduced radiation output. Compared to the IAM, the AAC is capable of filtering out gamma rays. Formed by most artefacts, gamma rays are able to penetrate skin, damage DNA, and in high doses, internal organs by breaking the bonds between atoms in a molecule.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[pda_white] • %c[pda_white] maximum capacity:%c[ui_gray_2] 1\n
+		%c[pda_white] • %c[pda_white] protects from the following radioactive emissions:\n
+		%c[d_blue]   - beta particles\n
+		%c[d_green]   - gamma rays\n
+		%c[pda_white] • %c[pda_white] state:%c[ui_gray_2] empty\n
+		</text>
+	</string>
+	
+	<string id="st_af_aam_name">
+		<text>Artefact Application Module (empty)</text>
+	</string>
+	<string id="st_af_aam_descr">
+		<text>The Artefact Application Module (AAM) filters a significant amount of radiation particles emitted from artefacts. This advanced mechanical module is the most effective way of harnessing the power of most potent artefacts. Artefact filter is composed of numerous layers made of nano-carbon. It is hence lightweight and has strongest radiation shielding properties of all devices. Regarded as a symbol of affluence in the Zone. Most commonly used by the scientists to minimise the harmful effects of artefacts. Designed and manufactured in Ukraine by a government institute which provides equipment for the scientists residing in the Zone of Alienation. In case of emergency or if no longer needed, the module can be utilised as a source of quality metal for use in outfit or helmet repairs. Currently unusable. To attach it to the belt, you have to put an artefact inside. The artefact will retain its characteristics with the exception of reduced radiation output. Compared to the AAC, the AAM is capable of filtering out neutrons. Formed by only the most unstable artefacts, neutrons are able to penetrate skin and, in high doses, damage DNA and internal organs by causing instability to a molecule's atomic nuclei, which may then in turn decay to cause further damage. Even if the neutron is 'safely' absorbed, sufficient exposure will lead to deuterium poisoning.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[pda_white] • %c[pda_white] artefact storage device\n
+		%c[pda_white] • %c[pda_white] maximum capacity:%c[ui_gray_2] 1\n
+		%c[pda_white] • %c[pda_white] protects from the following radioactive emissions:\n
+		%c[d_blue]   - beta particles\n
+		%c[d_green]   - gamma rays\n
+		%c[d_orange]   - neutrons\n
+		%c[pda_white] • %c[pda_white] state:%c[ui_gray_2] empty\n
+		</text>
+	</string>
+
+-->
+
+	<string id="st_hide_flesh_name">
+		<text>Flesh Hide</text>
+	</string>
+	<string id="st_hide_flesh_descr">
+		<text>Hide removed from a breed of mutated pigs commonly referred to as Flesh. A thick layer of fat underneath the relatively soft and shallow skin results in a heavy weight. Offers low physical protection, but on the other hand considerably reduces the harmful effects of chemical, thermal and electrical anomalies.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Light Mutant Pelt\n%c[d_cyan] • %c[pda_white] damage prot. negligible\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_boar_name">
+		<text>Boar Pelt</text>
+	</string>
+	<string id="st_hide_boar_descr">
+		<text>A hide removed from one of the wild boars found within the Zone. Almost fully covered with a thick layer of fur, it is a relatively potent thermal insulator, though the skin is quite thin making it a rather poor choice for armor enhancement.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Light Mutant Pelt \n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_bloodsucker_name">
+		<text>Bloodsucker Skin</text>
+	</string>
+	<string id="st_hide_bloodsucker_descr">
+		<text>The outer layer of a Bloodsucker's skin is very soft and pleasant in touch, however, underneath, Bloodsuckers boast well-developed muscles which can be utilized for considerable damage reducing potential, especially in regard to melee attacks. This makes Bloodsucker skin a popular choice among experienced hunters who also wear it as a sign of proficiency and authority.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Medium Mutant Pelt\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psysucker_name">
+		<text>Psysucker Skin</text>
+	</string>
+	<string id="st_hide_psysucker_descr">
+		<text>The outer layer of a Psysucker's skin is very soft and pleasant in touch, however, underneath, Psysuckers boast well-developed muscles which can be utilised to form a coat of sorts with considerable damage reducing potential, especially in regard to melee attacks. This makes Psysucker skin a popular choice among experienced hunters who also wear it as a sign of their proficiency.  Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy waves when worn over the head.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Medium Mutant Pelt\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_lurker_name">
+		<text>Lurker Hide</text>
+	</string>
+	<string id="st_hide_lurker_descr">
+		<text>A thick hide almost fully covered with a layer of fur. The mutants themselves are quite resistant to damage and can take considerable punishment due to large muscle mass and almost unbreakable bones. The skin of lurker is known for being thick and durable, making it a good choice for armor enhancement. The fur also makes for a relatively potent thermal insulator.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Light Mutant Pelt \n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_burer_name">
+		<text>Burer Skin</text>
+	</string>
+	<string id="st_hide_burer_descr">
+		<text>Skinning a Burer is a lot like skinning a human. Add to it an almost unbearable stench of rancid eggs and you get the idea why stalkers consider this quite a feat. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy waves when worn over the head.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Light Mutant Pelt\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_chimera_name">
+		<text>Chimera Hide</text>
+	</string>
+	<string id="st_hide_chimera_descr">
+		<text>Chimera, being one of the most dangerous mutants in the Zone, is not only a significant threat, but can also be regarded as a viable source of wealth. All parts that can be taken from chimera's corpse can be sold for a large amount of money, but it is the skin that is one of the most valued scientific specimens as well as one of the best armour enhancements available in the Exclusion Zone. It offers very good protection properties and, even more importantly, is relatively light-weight thanks to which it does not limit mobility. However, its most unique feature is that organic fibres found in the skin act as very effective electrical conductors. This fact to a large degree confirms reports of recon units (especially those scouting around the AMK Industrial Complex) concerning sightings of chimeras surrounded in what looked like an electrical anomaly, producing discharges on contact with any hostile living organism. Unfortunately, no unit was able to make it back, so there is no evidence confirming the existence of such a creature.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Heavy Mutant Pelt\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudogiant_name">
+		<text>Pseudogiant Hide</text>
+	</string>
+	<string id="st_hide_pseudogiant_descr">
+		<text>The skin of a Pseudogiant in many ways resembles the skin of an elephant. It is thick and hard to the touch and its texture is very irregular and full of folds which act as the creature's cooling mechanism. The average thickness of a Pseudogiant's skin is around 2cm, which makes it very durable and capable of withstanding significant damage. This is, however, at the cost of increased weight. In addition, many pseudogiants are known to often live in areas of high toxicity and radioactivity where the hide naturally adapts to such conditions, further increasing its usefulness.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Very Heavy Mutant Pelt\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_controller_name">
+		<text>Controller Scalp</text>
+	</string>
+	<string id="st_hide_controller_descr">
+		<text>As is the case with other humanoid mutants, it's quite an emotional challenge to scalp a Controller and it proves to be even more difficult as the face of a Controller retains certain characteristics of the person it once was. Confidential sources within the military revealed that fingerprints of the person who turned into a Controller can sometimes be found in the database. Recent analysis show that not only the hand of the controller is capable of producing psy waves, but the whole body is the source of emissions. For this reason, the scalp, when prepared properly, has the ability to absorb and filter psy energy.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Light Mutant Pelt\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudodog_name">
+		<text>Pseudodog Fur</text>
+	</string>
+	<string id="st_hide_pseudodog_descr">
+		<text>Densely covered with short and stiff fur, the pelt of a Pseudodog remains one of the most useful, widespread and versatile mutant pelts available in the Zone. It can be easily attached to armor, and is quite durable, making it suitable for medium-grade outfit repairs. When used, it can cover significant areas of the body with protective layers which increases resistance to both physical damage and heat.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Medium Mutant Pelt\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psy_dog_name">
+		<text>Psy-dog Fur</text>
+	</string>
+	<string id="st_hide_psy_dog_descr">
+		<text>The fur of a Psy-dog is undoubtedly one of the most beautiful and rare clothing materials in existence. Usually snow white or grey, it is in great demand and can be sold for a hefty sum of money. For those in the Zone, it can offer efficient rupture protection and mild psy influence reduction when used as a mask or a hood.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Medium Mutant Pelt\n
+		%c[d_cyan] • %c[pda_white] Stacks?: %c[ui_green]YES\n
+		</text>
+	</string>
+	
+	<string id="st_powder_poltergeist">
+		<text>Diamond Powder</text>
+	</string>
+	<string id="st_powder_poltergeist_descr">
+		<text>"Diamond powder" is a common name given to the crystal-like substance sometimes found in the belly of all species of psy creatures. It is not known what metabolic processes leads to its emergence and for this reason scientists are eager to pay large sums of money to `study it. Practical use is limited but some stalkers are known to sprinkle their most cherished hunting knives with it as it makes sharpening significantly easier and makes blades look shiny and well-kept.\n \n
+		%c[pda_white]PROPERTIES:\n
+		</text>
+	</string>
+
+</string_table>

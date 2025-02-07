@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+<!--
+	PROPS
+-->
+
+	<string id="st_placeable_exo_kit">
+		<text>Empty Exoskeleton Repair Kit</text>
+	</string>
+	<string id="st_placeable_exo_kit_descr">
+		<text>An empty case stripped of any useful items, though the capacity and size are sufficient when reused as storage.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Item Storage\n
+		%c[d_orange] • %c[pda_white] Usable As Stash\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+
+	<string id="st_placeable_case">
+		<text>Gun Case</text>
+	</string>
+	<string id="st_placeable_case_descr">
+		<text>An empty gun case void of any weaponry. It provides more space than conventional backpacks at the cost of weight.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Item Storage\n
+		%c[d_orange] • %c[pda_white] Usable As Stash\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+
+	<string id="st_placeable_blue_box">
+		<text>Metal Box</text>
+	</string>
+	<string id="st_placeable_blue_box_descr">
+		<text>A spacious metal box dedicated for storing items. It provides the most space compared to alternatives, but its heavy weight make it harder to transport.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Item Storage\n
+		%c[d_orange] • %c[pda_white] Usable As Stash\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+
+	<string id="st_placeable_sumka6">
+		<text>Small Backpack</text>
+	</string>
+	<string id="st_placeable_sumka6_descr">
+		<text>Small cloth sheets sewn together to form a simple sack. Useful for creating a small stash in a pinch.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Item Storage\n
+		%c[d_orange] • %c[pda_white] Usable As Stash\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+
+<!--
+	UI
+-->
+
+    <string id="st_place_furniture">
+		<text>Place Item</text>
+	</string>
+	
+</string_table>

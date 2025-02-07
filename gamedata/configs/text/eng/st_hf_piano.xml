@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+    <string id="st_placeable_piano">
+		<text>Portable Keyboard</text>
+	</string>
+	<string id="st_placeable_piano_descr">
+		<text>A luxury installation not often seen in the Zone. Although it does not offer any protection against mutants or hostile stalkers, it can provide a brief respite against the hostilities of the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n		
+		%c[d_orange] • %c[pda_white] Placeable\n
+		%c[d_orange] • %c[pda_white] Playable\n
+		</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="0_insider">
+		<text>I heard that I can exchange armor of other factions for ones of my own faction. Is this correct?</text>
+	</string>
+	<string id="1_insider">
+		<text>You heard right stalker. I'll give you armor that is about the same kind as the one you have in your posession, but only if they come from another faction. This is limited by our own faction stock, of course. Know that if your armor is in bad shape, you will not get a prestine one in return. It's not Babushka's house here.\n \n 
+		By the way, this service is not free. You can check the prices on the billboard over there. Consider the cost as a fee for the service and as a donation for our faction.\n \n
+		So, which type of armor do you want to trade? I'll check and see if we have an outfit matching what you seek.</text>
+	</string>
+	<string id="armor_exchange_light">
+		<text>A Light Outfit (for any light armor) [5000 RU].</text>
+	</string>
+	<string id="armor_exchange_medium">
+		<text>A Medium Outfit (for any medium armor) [10000 RU].</text>
+	</string>
+	<string id="armor_exchange_specops">
+		<text>A Specops Outfit (for any medium armor) [25000 RU].</text>
+	</string>
+	<string id="armor_exchange_sci">
+		<text>A Ccientific Outfit (for any non-armored medium scientific suit) [15000 RU].</text>
+	</string>
+	<string id="armor_exchange_skat">
+		<text>A Skat9 Heavy Armor (for any skat9 armor)  [25000 RU].</text>
+	</string>
+	<string id="armor_exchange_exolight">
+		<text>An Exosuit Heavy Armor (for any exosuit heavy armor) [30000 RU].</text>
+	</string>
+	<string id="armor_exchange_exo">
+		<text>An Exoskeleton-powered Armor (for any exo armor) [45000 RU].</text>
+	</string>
+	<string id="armor_exchange_noso">
+		<text>A Nosorog-class Exoskeleton (for any Nosorog armor) [65000 RU].</text>
+	</string>
+	<string id="armor_exchange_exit">
+		<text>Actually nevermind.</text>
+	</string>
+
+</string_table>

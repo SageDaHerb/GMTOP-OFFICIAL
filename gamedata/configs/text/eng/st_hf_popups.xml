@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_interact">
+		<text>Interact ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_place_popup">
+		<text>Place Item ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_far_popup">
+		<text>Too far away to place.</text>
+	</string>
+	<string id="st_collision_warning">
+		<text>Cannot place object due to collision.</text>
+	</string>
+    <string id="st_reject_pickup_world_obj">
+		<text>Unable to pick up.</text>
+	</string>
+	<string id="st_enable_collision">
+		<text>Enabled collision.</text>
+	</string>
+    <string id="st_disable_collision">
+        <text>Disabled collision.</text>
+    </string>
+	<string id="st_align_actor">
+		<text>Aligning relative to player.</text>
+	</string>
+    <string id="st_align_surface">
+		<text>Aligning relative to surface.</text>
+	</string>
+
+</string_table>

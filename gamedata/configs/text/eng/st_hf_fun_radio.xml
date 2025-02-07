@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_placeable_radio">
+		<text>Radio</text>
+	</string>
+	<string id="st_placeable_radio_descr">
+		<text>A radio in working condition. It's able to receive the same signals as those heard in many bases throughout the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_af_itcher_name">
+		<text>Itcher</text>
+	</string>
+	<string id="st_af_itcher_descr">
+		<text>A formation of thermal nature consisting of two separated layers. The surface is a dense, striped metamorphic rock with deep scars while the soft, inner core is formed from an unknown organic material. It actively consumes excessive heat and remains cool at all times.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string> 
+	<string id="st_af_pin_name">
+		<text>Pin</text>
+	</string>  
+	<string id="st_af_pin_descr">
+		<text>A formation of thermal nature formed under extreme temperatures. Studies have found the artefact to primarily be the fusion of various organic matter. It looks like a bouquet of oddly shaped structures combined with a handle of sorts that is prickly to the touch.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>  
+
+	<string id="st_af_cristall_name">
+		<text>Crystal</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>A formation of thermal nature formed under extreme temperatures. Actively consumes excessive heat and electricity while remaining cool to the touch. The artefact's color is due to the flames burning from within the crystal. Highly sought after by jewelers outside the Zone as it is considered to be of exceptional beauty if polished and refined.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_fireball_name">
+		<text>Fireball</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>A formation of thermal nature formed under extreme temperatures. Surprisingly cold to the touch, it effectively absorbs heat from its vicinity. The Fireball exhibits a temperature difference of 500 degrees Celsius between its membrane and inner core. Visually, the artefact looks like its namesake.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_blood_name">
+		<text>Stone Blood</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>A reddish formation of compressed fossilized plants, soil and animal debris. Naturally absorbs and neutralizes chemical poisons by absorbing them from the user's bloodstream. The reddish-brown veins on the Stone Blood's surface are due to the accumulation of iron salts.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_mincer_meat_name">
+		<text>Meat Chunk</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>An artefact with a soft, porous, skin-like texture that resembles and acts like a sponge. The liquid oozing from the Meat Chunk bears a resemblance to animal fat in terms of its chemical composition. Consumption is strongly discouraged.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_bracelet_name">
+		<text>Bracelet</text>
+	</string>  
+	<string id="st_af_bracelet_descr">
+		<text>Formed from common species of bryophyte plants under high exposure to radioactive and chemical anomalies, the Bracelet artefact provides substantial protection against all types of acids by gradually increasing their pH to the level of water (pH of 7).\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>  
+
+	<string id="st_af_baloon_name">
+		<text>Bubble</text>
+	</string>
+	<string id="st_af_baloon_descr">
+		<text>A compound of several hollow organic formations, this artefact emits a gaseous substance that can neutralize chemical or toxic particles inside the body while actively absorbing heat. The Bubble's transparent membrane conceals a substance that resembles the contents of the Fruit Punch anomaly.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_electra_sparkler_name">
+		<text>Sparkler</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>Bearing the appearance of translucent spider webs or the flawed work of a journeyman glassblower, the Sparkler artefact is commonly found in or near electro anomalies. Maintaining certain characteristics of the anomaly from which it is formed, it is often employed in the production of ultra-high-capacity batteries.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_sponge_name">
+		<text>Sponge</text>
+	</string>  
+	<string id="st_af_sponge_descr">
+		<text>Commonly under debate among the Ecologists is whether this artefact is an advanced life form with self-awareness inherited from once living creatures within the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string> 
+
+	<string id="st_af_ring_name">
+		<text>Ring</text>
+	</string>  
+	<string id="st_af_ring_descr">
+		<text>A very small artefact of electric origin consisting of two ring-shaped materials of organic nature. When the Ring spins, it never stops spinning, defying the first law of thermodynamics. Scientists suggest that this artefact inherits gravitational properties from Vortex anomalies.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string> 
+
+	<string id="st_af_electra_flash_name">
+		<text>Flash</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>Very similar in appearance to the Moonlight artefact, the Flash artefact resembles that of a plasma globe or plasma lamp. If pulverized into a powder, each particle continues to generate electrical discharges, indefinitely.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_cristall_flower_name">
+		<text>Stone Flower</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>This artefact resembles melted cheese interspersed with sapphire-like stones. With careful processing, it is possible to extract the blue parts for jewellery and other industrial purposes. Their quality and appearance make them perfect gemstones and jewelers all over the world strive to have them in stock.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_lobster_eyes_name">
+		<text>Lobster Eyes</text>
+	</string>  
+	<string id="st_af_lobster_eyes_descr">
+		<text>As the name suggests, this artefact has the shape of two dark eye-like formations fused together. The outer surface is very thick and dense, possibly attributing to its deep color.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string> 
+
+	<string id="st_af_electra_moonlight_name">
+		<text>Moonlight</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>This unique electrostatic artefact resonates under the influence of psy-waves and if fine-tuned, can significantly neutralize the negative effects of such phenomena. It is said that contact with this artefact may inspire some individuals with a manic desire to possess it. As of now, the underlying causes are yet to be determined.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_black_spray_name">
+		<text>Black Spray</text>
+	</string>  
+	<string id="st_af_black_spray_descr">
+		<text>A rare artefact with little known of its properties or origins. The Black Spray shares a similar shape to other sapphire-like artefacts, however the organic nature of the stem (which shares similar properties to the Pin artefact) suggests that it forms from vascular plants under exposure to psy-fields and electromagnetic waves. Due to the beautiful blue aura it emits, it is highly sought after by jewelers all over the world.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>  
+
+	<string id="st_af_medusa_name">
+		<text>Jellyfish</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>A gravitational artefact able to shield the body from physical impacts by altering the gravitational field around the user.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_vyvert_name">
+		<text>Wrenched</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>This bizarrely-shaped artefact appears in places with increased gravitational activity. Although it appears almost organic, it is actually more similar to that of coral. In extreme cold, the Wrenched is warm to the touch, while in high temperatures, it remains cool.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_empty_name">
+		<text>Empty</text>
+	</string>  
+	<string id="st_af_empty_descr">
+		<text>Two disks of organic formation (commonly lipids, cellulose and lignin) with nothing but empty space in between due to a unique gravitation field formed in the center that stabilizes the distance between the disks. Any attempt to press the disks together, or pull them apart will fail due to rapid positive/negative changes in its gravitational field. As if the artefact reacts to any physical power that breaks its balance.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string> 
+
+	<string id="st_af_full_empty_name">
+		<text>Full Empty</text>
+	</string>  
+	<string id="st_af_full_empty_descr">
+		<text>Similar to the Empty artefact, the Full Empty consists of two disks of organic formation connected by a unique gravitational field in between. However, the field in Full Empty is extraordinary as all atoms entering the center, regardless of their nature, begin release light-emitting photons. Scientists usually refer to this as the "Galaxy Effect". There are some claims that a Full Empty artefact is capable of stopping z 9mm bullets fired at point blank.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string> 
+
+	<string id="st_af_night_star_name">
+		<text>Night Star</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>This glowing artefact is known for its beautiful inner core that is highly sought after by jewelers all over the world. However, it is best to proceed with caution as unskilled treatment can cause the artefact to explode with power sufficient to level a small building. It is thus highly advised to perform the polishing by means of specialized machinery to minimize the probability of catastrophe. The needles on the artefact are brittle, though if one punctures the skin, the wound must be disinfected immediately.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+	<string id="st_af_gravi_name">
+		<text>Gravi</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>Formed from metallic substances exposed to prolonged gravitation, the Gravi artefact remained a mystery for a long time until scientist Sakharov at Yantar first discovered that it is capable of sustaining a powerful anti-gravitational field able to reduce the weight of all objects in its local proximity. The Gravi can only be cut into pieces using plasma tools as the artefact exhibits a density and hardness surpassing that of diamond.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_gold_fish_name">
+		<text>Goldfish</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>A direct successor and superior version of the Gravi artefact. Thanks to scientist Sakharov's research at Yantar after a massive blowout/emission hit the Zone and for the meticulous research that followed, it was established that this new artefact is produced when three Gravi artefacts join singularity fields. This phenomenon is extremely rare, and therefore these are highly valued. It is rumored within Ukrainian Spetsnaz circles that there are agents from the Ministry of Defence of the Russian Federation whose sole objective is acquiring and transporting Goldfish artefacts to specialized laboratories located outside of the Zone. Extraordinary effects aside, the Goldfish gained its namesake from the unusual characteristic of sinking in water with any salt content, but remaining buoyant while in distilled water.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_glassbeads_name">
+		<text>Mama's Beads</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>Shaped like a DNA helix, Mama's Beads are created in the Burner anomaly under extreme heat. One of their most characteristic features is their constant pulsation that generate emissions beneficial to the human body, such as increased metabolism and accelerated coagulation and healing of wounds, though the mechanism behind the effects of this artefact are still unknown. Highly valued on the Mainland's market as an exclusive interior decoration.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_eye_name">
+		<text>Eye</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>An artefact resembling the human eye that considerably increases the metabolic processes of the body. Experienced stalkers say that the Eye artefact also brings luck. Others believe that the artefact's "pupil" reacts to movement, but this claim remains unconfirmed.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_fire_name">
+		<text>Flame</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>An artefact formed in areas of high thermal activity, the Flame produces powerful infrared emissions known to magnify metabolic processes. Many stalkers state that they owe their lives to it, and most veteran mutant hunters carry it just in case they run into trouble. There are even stories of stalkers in the possession of this artefact surviving Chimera attacks.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_battery_name">
+		<text>Battery</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>An artefact highly valued for its energizing properties, many stalkers carry these on them when they need to traverse long distances or travel deep within the Zone. Interestingly, the high-frequency alternating current that glows and arcs within the Battery does not cause burns upon contact.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_dummy_name">
+		<text>Shell</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>An artefact composed of two bluish-colored disks connected by a semi-transparent material of unknown nature. For a long time, this strange artefact was originally considered devoid of any useful properties by many scientists, until only recently it was discovered to be quite beneficial. Caution: risk of injury even under controlled laboratory conditions. Avoid inserting fingers between the disks under any circumstances.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_ice_name">
+		<text>Snowflake</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>Colloquially known as the "Radioactive Snowflake", though the artefact is not actually radioactive and was instead created to scare rookies. Often mistaken for a white Kolobok, this artefact, thanks to its unique properties, can significantly increase the wearer's muscle density, thus greatly improving stamina recovery. After touching this artefact, individuals may experience lingering sensations of phantom electrical discharge for several days.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_soul_name">
+		<text>Soul</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>A unique organic artefact that secretes a slimy goo that dramatically increases wound recovery rate. Thanks to its reasonable price and attractive appearance, this artefact is a valuable collector's item. Despite its apparent fragility, the artefact remains impervious to destruction via mechanical, thermal, or chemical means. The science behind this characteristic is yet to be understood.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_fuzz_kolobok_name">
+		<text>Kolobok</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>A relatively rare artefact formed in chemical areas, the Kolobok is highly valued for its ability to assist in healing most kinds of wounds and stopping bleeding in a matter of minutes. For unknown reasons, scientists are spreading rumors among stalkers that the artefact modifies the user's genetic code, though this is unproven and should be regarded as a conscious attempt at monopolizing the supply of the artefact by the scientific community. This does not, however, mean that it is completely harmless.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_glass_name">
+		<text>Firefly</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>An artefact that interacts with fields unknown to science, considerably speeding up tissue and organs regeneration, as well as altering metabolic processes. This artefact can get a badly wounded stalker back on his feet in a matter of minutes. On the other hand, it can spontaneously combust when exposed to potent radioactive sources. Little more is known of this fascinating marvel.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_compass_name">
+		<text>Compass</text>
+	</string>
+	<string id="st_af_compass_descr">
+		<text>A legendary artefact found in gravitational anomalies. Stalkers hold the belief that whoever discovers and holds onto a Compass will gain the ability to safely navigate the Zone's most treacherous areas unharmed. The Compass artefact has shown a few unique properties under recent scientific experiments, as it can move objects, causing some to completely disappear, or perhaps even teleport?\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_oasis_heart_name">
+		<text>Heart of the Oasis</text>
+	</string>
+	<string id="st_af_oasis_heart_descr">
+		<text>A legendary artefact found at the center of the legendary Oasis. It appears that the Heart is a crystallized plant that has acquired the unique healing properties of the Oasis. It not only dramatically increases the recovery rate of wounds, but also provides the body with a strong source of energy and liveliness. It is rumored as a true miracle.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_death_lamp_name">
+		<text>Death Lamp</text>
+	</string>  
+	<string id="st_af_death_lamp_descr">
+		<text>"Big, red and cursed" is how the locals prefer to describe this artefact, while some refer to it as the "Seed of Satan". Little is known about its origins and nothing of value has been discovered so far though it is known that the Death Lamp was first discovered a few years ago by a group of three experienced stalkers. Shortly after delivering the artefact to the Ecologists in Yantar, two of them were found dead left with a horrific expression on their faces. Eerily, nothing is known about the fate of the third stalker, though following the accident, members of the science team who studied the artefact had reported having nightmare in the days to follow.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string> 
+	
+	<string id="st_af_monolith_name">
+		<text>Volat Emerald</text>
+	</string>
+	<string id="st_af_monolith_descr">
+		<text>The origins of artefacts such as this one are a mystery, as they are rarely found outside the northernmost parts of the Zone. This artefact projects a non-contact field that inhibits nearbly anomalous phenomena. This grants the wearer a notable level of protection against most of the Zone's environmental hazards. However, when you hold it, your flesh feels dry and flaky, your bones hard and stiff, and the ligaments in your joints seem squeaky and brittle. Thick armor or great supernatural vitality would be needed by anyone intending to wear this artefact into battle.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+	
+	<string id="st_af_black_name">
+		   <text>Black Stone</text>
+    </string>
+    <string id="st_af_black_descr">
+		<text>The Black Stone is suspected to be a shard of the Monolith. Very little is known about this artefact.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+    </string>
+
+	<string id="st_af_misery_bread_name">
+		<text>Anomalous Bread</text>
+	</string>
+	<string id="st_af_misery_bread_descr">
+		<text>A piece of bread as dark as the soul of the person that left it. Consumption is most definitely not recommended.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Artefact\n
+		</text>
+	</string>
+
+</string_table>

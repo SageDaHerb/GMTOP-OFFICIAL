@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="dit_no_consume_ctrl">
+		<text>%sTo prevent unintentional use,\n
+		'LEFT-SHIFT' MUST be held down%s</text>
+	</string>
+
+</string_table>

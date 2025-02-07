@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_sledge_hammer">
+		<text>Sledgehammer</text>
+	</string>
+	<string id="st_sledge_hammer_descr">
+		<text>A tool with a large, heavy head attached to a long handle. Allows gathering momentum during a swing to apply massive amounts of force.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Various\n
+		%c[d_cyan] • %c[ui_gray_2] melee weapon\n
+		%c[d_green] • %c[ui_gray_2] greater reach compared to knives\n
+		</text>
+	</string>
+
+</string_table>

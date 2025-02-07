@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_9a91n">
+		<text>9A-91</text>
+	</string>
+	<string id="st_wpn_9a91n_descr">
+		<text>The 9A-91 compact assault rifle was originally developed as part of the A91 family of compact weapons. Of those, only the 9mm version survived and entered small-scale production at the Tula Arms Factory. It was originally intended for an Army PDW role, but instead found some favor in the ranks of MVD and Russian police troops as a less expensive equivalent of the SR-3 Vikhr compact assault rifle.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]KBP Instrument Design Bureau\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vsk94n">
+		<text>VSK-94</text>
+	</string>	
+	<string id="st_wpn_vsk94n_descr">
+		<text>Based on the 9A-91 compact assault rifle, the VSK-94 is a suppressed designated marksman rifle designed in 1995 by Vasily Gryazev. It retains the gas-driven operating principle of the 9A-91 with a rotating bolt and hammer fire mechanism and is mainly used by special forces and law enforcement agencies in Russia. The threaded barrel is designed to use a specifically designed suppressor.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]KBP Instrument Design Bureau\n
+		</text>
+	</string>
+
+</string_table>

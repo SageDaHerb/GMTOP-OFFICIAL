@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="st_wpn_pp2000n">
+		<text>PP-2000</text>
+	</string>
+	<string id="st_wpn_pp2000n_descr">
+		<text>Used by special operations units and law enforcement personnel, the PP-2000 personal defense weapon is often considered to be one of the best in its class. It is compact, lightweight and simple in design for increased reliability and simplified maintenance.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]KBP Instrument Design Bureau\n
+		</text>
+	</string>
+
+</string_table>

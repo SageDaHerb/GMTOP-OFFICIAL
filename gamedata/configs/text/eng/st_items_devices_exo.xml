@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--
+	Devices
+-->
+
+<string_table>
+
+	<string id="st_itm_exo_psu_name">
+		<text>Exoskeleton Power Supply (Jury-rigged)</text>
+	</string>
+	<string id="st_itm_exo_psu_descr">
+		<text>Auxiliary power supply equipped on exoskeletons to increase their energy capacity. Popular with most stalkers given the rather inefficient powerplants that come with standard exoskeletons. This type has been haphazardly put together and is quite inefficient and while lightweight, it only offers a marginal increase to energy capacity.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Power Capacity:%c[ui_gray_2] 150\n
+		%c[d_cyan] • %c[pda_white] Power Consumption Rate:%c[ui_gray_2] 100%\n
+		</text>
+	</string>
+
+	<string id="st_itm_exo_psu_mili_name">
+		<text>Exoskeleton Power Supply (Mil-spec)</text>
+	</string>
+	<string id="st_itm_exo_psu_mili_descr">
+		<text>Auxiliary power supply equipped on exoskeletons to improve their energy capacity. Popular with most stalkers given the rather inefficient powerplants that come with standard exoskeletons. This model is professionally made in a factory and mounts seamlessly to an exoskeleton. It is hefty but very durable and quite energy-efficient, providing a substantial boost to energy capacity and a minor benefit to energy efficiency.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Power Capacity:%c[ui_gray_2] 250\n
+		%c[d_cyan] • %c[pda_white] Power Consumption Rate:%c[ui_gray_2] 85%\n
+		</text>
+	</string>
+	
+	<string id="st_itm_exo_psu_sci_name">
+		<text>Exoskeleton Power Supply (Experimental) "Reactor"</text>
+	</string>
+	<string id="st_itm_exo_psu_sci_descr">
+		<text>Auxiliary power supply equipped on exoskeletons to improve their energy capacity. Popular with most stalkers given the rather inefficient powerplants that come with standard exoskeletons. This model is an experimental prototype constructed based on schematics obtained from the Ecologists who used the latently static properties of the Battery artefact to reduce the battery usage rate.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Power Capacity:%c[ui_gray_2] 400\n
+		%c[d_cyan] • %c[pda_white] Power Consumption Rate:%c[ui_gray_2] 50%\n
+		%c[d_orange] • %c[pda_white] Double-tap %c[d_orange]$$ACTION_SPRINT_TOGGLE$$ %c[pda_white]to launch electrical nova\n
+		</text>
+	</string>
+	
+	<string id="st_itm_exo_psu_tank_name">
+		<text>Exoskeleton Power Supply (Experimental) "Stronghold"</text>
+	</string>
+	<string id="st_itm_exo_psu_tank_descr">
+		<text>Auxiliary power supply equipped on exoskeletons to improve their energy capacity. Popular with most stalkers given the rather inefficient powerplants that come with standard exoskeletons. This model is an experimental prototype constructed based on schematics obtained from the Ecologists. This prototype uses the gravitational properties of the Empty artefact to generate a localized anomaly zone on activation which is centered on the user and effectively slows down high-velocity projectiles and shrapnel, as well as rendering most mutant attacks useless.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Power Capacity:%c[ui_gray_2] 500\n
+		%c[d_cyan] • %c[pda_white] Power Consumption Rate:%c[ui_gray_2] 135%\n
+		%c[d_orange] • %c[pda_white] Double-tap '$$ACTION_SPRINT_TOGGLE$$' %c[pda_white]for major damage reduction\n
+		</text>
+	</string>
+
+	<string id="st_itm_exo_psu_sprint_name">
+		<text>Exoskeleton Power Supply (Experimental) "Engine"</text>
+	</string>
+	<string id="st_itm_exo_psu_sprint_descr">
+		<text>Auxiliary power supply equipped on exoskeletons to improve their energy capacity. Popular with most stalkers given the rather inefficient powerplants that come with standard exoskeletons. This model is an experimental prototype constructed based on schematics obtained from the Ecologists. Designed to add mobility options for shock troopers, this prototype uses the capactive properties of the Flash artefact to power a customized set of servomotors. The Flash artefact can be temporarily activated to vastly increase user mobility. The vastly increased movespeed also allows the user to deal massive damage to anything caught in their path.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Power Capacity:%c[ui_gray_2] 300\n
+		%c[d_cyan] • %c[pda_white] Power Consumption Rate:%c[ui_gray_2] 85%\n
+		%c[d_orange] • %c[pda_white] Double-tap %c[d_orange]$$ACTION_SPRINT_TOGGLE$$ %c[pda_white]for major speed boost\n
+		%c[d_orange] • %c[pda_white] Sprint into enemies to deal damage\n
+		</text>
+	</string>
+
+	<string id="st_batteries_ccell">
+		<text>Military Battery Unit</text>
+	</string>
+	<string id="st_batteries_ccell_descr">
+		<text>A heavy milspec battery for powering exoskeletons. Developed by Ukranian research facilities based on Zone research, these high-density power packs can replace spent cells in exoskeleton power plants, or transfer power to onboard storage. Drag onto an exoskeleton to recharge its power.\n \n
+		%c[pda_white]PROPERTIES:\n
+		</text>
+	</string>
+
+	
+	<string id="st_exo_recipe_1">
+		<text>Scientific Paper</text>
+	</string>
+	<string id="st_exo_recipe_1_descr">
+		<text>Scientific paper penned by V.R. Solenov and R.R. Romanovich, called "Behavior of Battery Artefacts Under Artificial Electromagnetic Fields". It details the behavior and observed effects of Battery artefacts when subjected to various strengths of electromagnetic fields. Under certain VPM levels, the artefact is observed to emit brief, intense surges of direct current, with the effect not having any correlation with the strength of the field. It is very wordy and verbose, and accompanying the text and equations are several graphs, black and white photos, and test logs. At the back of the paper are schematics on how to contain such an artefact to cause it to output more voltage when subjected to a positive current. The notebook is stamped with the official seal of the Ukrainian Ministry of Science.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Recipe\n
+		</text>
+	</string>
+	
+	<string id="st_exo_recipe_2">
+		<text>Scientific Paper</text>
+	</string>
+	<string id="st_exo_recipe_2_descr">
+		<text>Scientific paper penned by A.N. Perchenov and V.R. Solenov, called "Observations &amp; Analysis of 'Full Empty' Artefact Projected Gravitational Shells". Details the observations of the Full Empty artefact's peculiar gravitational effects. According to the document, the space between Empty disks is the consequence of two disks partially distorting spacetime relative to the positions of one another to create a miniature gravitational anomaly. The contents of what the 'Full' part of the Full Empty constitutes, remain unknown and are speculated to be the visible form of air particles charged with highly excited zero-point energy. When subjected to an alternating current of a certain amperage under vacuum conditions, the contents temporarily dissipate and the gravitational anomaly contained between the two disks expands to create a nearly impervious 'shell' where any solid objects entering the space are caught and deflected from their original trajectory. The discovery of this behavior supposedly injured four interns and two lab assistants when the correct configuration was dialed in. Within the experiment log is a diagram of the vacuum containment device required to replicate this behavior.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Recipe\n
+		</text>
+	</string>
+	
+	<string id="st_exo_recipe_3">
+		<text>Scientific Paper</text>
+	</string>
+	<string id="st_exo_recipe_3_descr">
+		<text>Scientific paper penned by R.R. Romanovich and A.N. Perchenov, called "Application of 'Flash' Artefact Fields to Engine Power Output". Details the strange effects that Flash artefacts have on electrically-powered machinery. When a Flash artefact is subjected to a positive electric current in vacuum, the artefact projects a variously sized anomalous field that vastly increases the physical output of electrical machinery in the area; motors run faster, CPUs overclock, and even mechanical watches move faster. Various experimental logs note the propensity of the machines to burn themselves out due to high heat and friction generated if the field is sustained for a prolonged period of time, and most of the paper is otherwise speculation at what could cause such a behavior. The latest prevailing theory is a quantum level influence increasing the flow of electricity and strength of magnetism. However, such theories are unconfirmed. In the middle of the paper is a diagram detailing the containment chamber construction of the artefact used in experimentation.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Recipe\n
+		</text>
+	</string>
+	
+	<string id="st_power">
+		<text>%c[pda_white]Power Level:</text>
+	</string>
+	<string id="st_equipped_supply">
+		<text>%c[pda_white]Equipped Power Supply:</text>
+	</string>
+	<string id="st_equipped_none">
+		<text>None</text>
+	</string>
+	<string id="st_charge_exo">
+		<text>Charge Suit</text>
+	</string>
+	<string id="st_install_psu">
+		<text>Install</text>
+	</string>
+	<string id="st_remove_psu">
+		<text>Remove PSU</text>
+	</string>
+	<string id="kb_power">
+		<text>Activate Power</text>
+	</string>
+	
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+	<string id="article_exo">
+		<text>Powered Exoskeletons</text>
+	</string>
+	<string id="article_exo_text">
+		<text>%c[pda_white]Powered Exoskeletons\n
+		%c[ui_gray_2]Exoskeletons now each have their own unique power source. The power level must be maintained in order for an exoskeleton to move around effectively.\n \n
+		%c[pda_white]Exo Batteries\n
+		%c[ui_gray_2]Exoskeleton power reserves can be recharged with batteries purchased from traders or found in the Zone. Batteries hold a default 100 power, which is enough to fully top off an un-upgraded exoskeleton.\n
+		Exoskeleton power drains with movement. Sprinting increases drain. If the power drops to 0, the player will be massively slowed unless the armor is removed.\n \n
+		%c[pda_white]External Power Supplies\n
+		%c[ui_gray_2]Exoskeletons can be upgraded with power supplies that are purchasable, craftable and lootable.\n
+		To equip a power supply, drag and drop the power supply onto the armor or 'right-click' the power supply while the exoskeleton is equipped.\n
+		Power supplies increase the energy capacity of an exoskeleton beyond 100, and higher level versions grant unique benefits and powers.\n
+		</text>
+	</string>
+	
+	<string id="st_err_none">
+		<text>[SYSCTL] WARN: FUNCTIONALITY NOT FOUND</text>
+	</string>
+	<string id="st_err_power">
+		<text>[SYSCTL] WARN: POWER INSUFFICIENT</text>
+	</string>
+	<string id="st_err_cooldown">
+		<text>[SYSCTL] WARN: SYS TEMP ABOVE SAFE THRESHOLD</text>
+	</string>
+	<string id="st_ok_cooldown">
+		<text>[SYSCTL] INFO: SYS TEMP UNDER SAFE THRESHOLD</text>
+	</string>
+	<string id="st_act_tank">
+		<text>[SYSCTL] INFO: GRAVITATIONAL BARRIER ACTIVE</text>
+	</string>
+	<string id="st_act_sprint">
+		<text>[SYSCTL] INFO: MOTOR OVERCLOCK ACTIVE</text>
+	</string>
+
+	<string id="st_low_power">
+		<text>[SYSCTL] WARN: BATTERY LOW</text>
+	</string>
+	
+	<string id="ui_mcm_menu_exo">
+		<text>Powered Exos</text>
+	</string>
+	<string id="ui_mcm_exo_title">
+		<text>Powered Exoskeletons</text>
+	</string>
+	<string id="ui_mcm_exo_drain">
+		<text>Exoskeleton power drain</text>
+	</string>
+	<string id="ui_mcm_exo_sprint_drain">
+		<text>Exoskeleton sprint power drain</text>
+	</string>
+	<string id="ui_mcm_exo_debug">
+		<text>Enable Debug Logs</text>
+	</string>
+	<string id="ui_mcm_exo_drain_desc">
+		<text>Power drain multiplier for exoskeletons.</text>
+	</string>
+	<string id="ui_mcm_exo_sprint_drain_desc">
+		<text>Multiplier on power drain when sprinting.</text>
+	</string>
+	<string id="ui_mcm_exo_battery_chance">
+		<text>Battery drop chance.</text>
+	</string>
+	<string id="ui_mcm_exo_battery_chance_desc">
+		<text>Chance that stalkers will drop batteries. Exoskeleton wearers only!</text>
+	</string>
+	<string id="ui_mcm_exo_debug_desc">
+		<text>Enable Debug Logs in console</text>
+	</string>
+
+	<string id="ui_mcm_menu_exo_power">
+		<text>Exo Power keybind</text>
+	</string>
+	<string id="ui_mcm_exo_power_keybind">
+		<text>Activate PSU power.</text>
+	</string>
+	<string id="ui_mcm_exo_power_keybind_desc">
+		<text>Used to activate exoskeleton related powers.</text>
+	</string>
+
+</string_table>

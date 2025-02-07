@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_device_glowstick">
+		<text>Glowstick (Green)</text>
+	</string>
+	<string id="st_device_glowstick_descr">
+		<text>Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers various emergency situations and other cases when there is no access to other lighting sources. Emits a green light with balanced range and illumination.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Lifetime: %c[ui_gray_2]~40 Minutes\n
+		</text>
+	</string>
+
+	<string id="st_device_glowstick_red">
+		<text>Glowstick (Red)</text>
+	</string>
+	<string id="st_device_glowstick_red_descr">
+		<text>Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers various emergency situations and other cases when there is no access to other lighting sources. Emits a red light with increased range but limited illumination.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Lifetime: %c[ui_gray_2]~60 Minutes\n
+		</text>
+	</string>
+
+	<string id="st_device_glowstick_orange">
+		<text>Glowstick (Orange)</text>
+	</string>
+	<string id="st_device_glowstick_orange_descr">
+		<text>Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers various emergency situations and other cases when there is no access to other lighting sources. Emits an orange light with decent range and illumination.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Lifetime: %c[ui_gray_2]~40 Minutes\n
+		</text>
+	</string>
+
+	<string id="st_device_glowstick_blue">
+		<text>Glowstick (Cyan)</text>
+	</string>
+	<string id="st_device_glowstick_blue_descr">
+		<text>Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers various emergency situations and other cases when there is no access to other lighting sources. Emits a cyan light with very limited range but great illumination.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Lifetime: %c[ui_gray_2]~30 Minutes\n
+		</text>
+	</string>
+
+<!--
+	MCM
+-->
+
+	<string id="ui_mcm_menu_glowsticks">
+		<text>Glowsticks</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+		<text>Brain Scorcher and Miracle Machine Flickering</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+		<text>Lamps and flashlights flicker in the Brain Scorcher and Miracle Machine as long as they are active, giving a reason to bring/use glowsticks.</text>
+	</string>
+	<string id="ui_mcm_glowsticks_throw_force">
+        <text>Glowstick Throw Distance</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance">
+        <text>Glowstick Stash Chance</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance_desc">
+        <text>Chance to find glowsticks in stashes.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance">
+        <text>Glowstick Loot Chance</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance_desc">
+        <text>Chance to find glowsticks on dead bodies.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_throw_key">
+        <text>Throw Key</text>
+    </string>
+    <string id="ui_mcm_glowsticks_throw_key_desc">
+        <text>Key to hold to throw glowsticks.</text>
+    </string>
+	
+</string_table>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+    <string id="st_hf_holding_msg">
+		<text>$key_interact - Place Object\n
+            $key_collision - Toggle Collision Detection\n
+            $key_align - Toggle Surface Alignment\n
+            $key_mode - Switch to Advanced Mode\n
+            ESCAPE - Cancel Placement
+        </text>
+	</string>
+
+    <string id="st_hf_advanced_msg">
+		<text>$key_interact - Place Object\n
+            Transforms:\n
+            MOUSE1 - Move on Horizontal Plane\n
+            MOUSE2 - Rotate about Vertical Axis\n
+            LSHIFT + MOUSE1 - Move along Vertical Axis\n
+            Modifiers:\n
+            LALT - Snap\n
+            LCTRL - Finetune Control\n
+            $key_mode - Switch to Preview Mode\n
+            ESCAPE - Switch to Normal Mode
+        </text>
+	</string>
+
+    <string id="st_hf_preview_msg">
+		<text>$key_interact - Place Object\n
+            ESCAPE - Cancel Placement\n
+            $key_mode - Switch to Advanced Mode
+        </text>
+	</string>
+
+</string_table>

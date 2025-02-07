@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_addon_scope_lazup_generic">
+		<text>Laser Aim Module</text>
+	</string>
+	<string id="st_addon_scope_lazup_generic_descr">
+		<text>A weapon for multiple weapons using a Picatinny or other compatible rail. Is used for aimed shooting from any position and can even be used along side NVGs for easier target acquisition.\n \n
+		%c[pda_white]PROPERTIES:\n
+		
+		</text>
+	</string>
+	
+</string_table>	

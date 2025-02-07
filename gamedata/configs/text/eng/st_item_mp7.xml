@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_mp7">
+		<text>MP7</text>
+	</string>
+	<string id="st_wpn_mp7_descr_new">
+		<text>Smaller than a conventional submachine gun, the MP7 is a compact and lightweight personal defense weapon that can be carried like a handgun yet is capable of rifle-like effectiveness. Designed to meet NATO requirements for a PDW class firearm with the ability to more efficiently penetrate body armor.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Germany\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Heckler &amp; Koch\n
+		</text>
+	</string>
+	
+</string_table>
