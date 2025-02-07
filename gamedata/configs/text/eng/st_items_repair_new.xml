@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Repair Kits
+-->
+
+<string_table>
+
+	<string id="st_cleaning_kit_p_new">
+		<text>Weapon Cleaning Kit (Type A)</text>
+	</string>
+	<string id="st_cleaning_kit_p_new_descr">
+		<text>A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. It is possible to utilize common tools to have better access to a weapon's inner mechanisms or to use alcohol to more easily dissolve oil residue. These sets are commonly used in the Zone in order to keep firearms in good, working shape.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Cleaning Internal Gun Parts Above 60% Condition\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Type A Weapons\n
+		%c[d_orange] • %c[pda_white] 'Right-click' Type A Gun %c[ui_gray_2]>%c[pda_white] Maintain Parts %c[ui_gray_2]>%c[pda_white] Clean Part\n
+		</text>
+	</string>
+
+	<string id="st_cleaning_kit_s_new">
+		<text>Weapon Cleaning Kit (Type B)</text>
+	</string>
+	<string id="st_cleaning_kit_s_new_descr">
+		<text>A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. It is possible to utilize common tools to have better access to a weapon's inner mechanisms or to use alcohol to more easily dissolve oil residue. These sets are commonly used in the Zone in order to keep firearms in good, working shape. Also known as the "Aurora" Kit, this set comes with three specialized brush types, for after-fire cleaning, lubricant spreading and rust removal.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Cleaning Internal Gun Parts Above 60% Condition\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Type B Weapons\n
+		%c[d_orange] • %c[pda_white] 'Right-click' Type B Gun %c[ui_gray_2]>%c[pda_white] Maintain Parts %c[ui_gray_2]>%c[pda_white] Clean Part\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_r5_new">
+		<text>Weapon Cleaning Kit (Type C)</text>
+	</string>
+	<string id="st_cleaning_kit_r5_new_descr">
+		<text>A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. It is possible to utilize common tools to have better access to a weapon's inner mechanisms or to use alcohol to more easily dissolve oil residue. These sets are commonly used in the Zone in order to keep firearms in good, working shape. This particular pack is standard issue with the Ukrainian Armed Forces and comes in a hard plastic, reusable container.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Cleaning Internal Gun Parts Above 60% Condition\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Type C Weapons\n
+		%c[d_orange] • %c[pda_white] 'Right-click' Type C Gun %c[ui_gray_2]>%c[pda_white] Maintain Parts %c[ui_gray_2]>%c[pda_white] Clean Part\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_r7_new">
+		<text>Weapon Cleaning Kit (Type D)</text>
+	</string>
+	<string id="st_cleaning_kit_r7_new_descr">
+		<text>A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. It is possible to utilize common tools to have better access to a weapon's inner mechanisms or to use alcohol to more easily dissolve oil residue. These sets are commonly used in the Zone in order to keep firearms in good, working shape. Though the manufacturer is unknown, its simple design and construction, in addition to very high quality materials suggests a military or special forces origin.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Cleaning Internal Gun Parts Above 60% Condition\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Type D Weapons\n
+		%c[d_orange] • %c[pda_white] 'Right-click' Type D Gun %c[ui_gray_2]>%c[pda_white] Maintain Parts %c[ui_gray_2]>%c[pda_white] Clean Part\n
+		</text>
+	</string>
+
+    <string id="st_toolkit_p_new">
+        <text>Weapon Repair Kit (Type A)</text>
+    </string>
+    <string id="st_toolkit_p_new_descr">
+        <text>This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of weapon mechanisms. Comes standard comes with a set of elementary firearm spare parts. The kit is quite heavy, but is irreplaceable when venturing deep into the Zone as it can be used in life-or-death situations to make a firearm usable again. It's possible to further increase the effectiveness of the kit by combining it with other kits during a single maintenance session.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Replacing Internal Gun Parts w/ Prestine Parts\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Type A Weapons\n
+		%c[d_orange] • %c[pda_white] 'Right-click' Type A Gun %c[ui_gray_2]>%c[pda_white] Maintain Parts %c[ui_gray_2]>%c[pda_white] Replace Part\n
+        </text>
+    </string>
+
+    <string id="st_toolkit_s_new">
+        <text>Weapon Repair Kit (Type B)</text>
+    </string>
+    <string id="st_toolkit_s_new_descr">
+        <text>This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of weapon mechanisms. Comes standard comes with a set of elementary firearm spare parts. The kit is quite heavy, but is irreplaceable when venturing deep into the Zone as it can be used in life-or-death situations to make a firearm usable again. It's possible to further increase the effectiveness of the kit by combining it with other kits during a single maintenance session. These kits are commonly found on hunters and gunsmiths who come to the Zone to ply their trade.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Replacing Internal Gun Parts w/ Prestine Parts\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Type B Weapons\n
+		%c[d_orange] • %c[pda_white] 'Right-click' Type B Gun %c[ui_gray_2]>%c[pda_white] Maintain Parts %c[ui_gray_2]>%c[pda_white] Replace Part\n
+        </text>
+    </string>
+
+    <string id="st_toolkit_r5_new">
+        <text>Weapon Repair Kit (Type C)</text>
+    </string>
+    <string id="st_toolkit_r5_new_descr">
+        <text>This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of weapon mechanisms. Comes standard comes with a set of elementary firearm spare parts. The kit is quite heavy, but is irreplaceable when venturing deep into the Zone as it can be used in life-or-death situations to make a firearm usable again. It's possible to further increase the effectiveness of the kit by combining it with other kits during a single maintenance session. These are standard Ukrainian army quartermaster repair kits. Duty maintains a trade deal with the military for these kits, but usually an unscrupulous soldier here and there is willing to trade one of these for an artefact or a case of vodka.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Replacing Internal Gun Parts w/ Prestine Parts\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Type C Weapons\n
+		%c[d_orange] • %c[pda_white] 'Right-click' Type C Gun %c[ui_gray_2]>%c[pda_white] Maintain Parts %c[ui_gray_2]>%c[pda_white] Replace Part\n
+        </text>
+    </string>
+
+    <string id="st_toolkit_r7_new">
+        <text>Weapon Repair Kit (Type D)</text>
+    </string>
+    <string id="st_toolkit_r7_new_descr">
+        <text>This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of weapon mechanisms. Comes standard comes with a set of elementary firearm spare parts. The kit is quite heavy, but is irreplaceable when venturing deep into the Zone as it can be used in life-or-death situations to make a firearm usable again. It's possible to further increase the effectiveness of the kit by combining it with other kits during a single maintenance session. Kits such as these are quite rare and are usually found in limited supply among even the most well-armed factions of the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Replacing Internal Gun Parts w/ Prestine Parts\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Type D Weapons\n
+		%c[d_orange] • %c[pda_white] 'Right-click' Type D Gun %c[ui_gray_2]>%c[pda_white] Maintain Parts %c[ui_gray_2]>%c[pda_white] Replace Part\n
+        </text>
+    </string>
+
+</string_table>

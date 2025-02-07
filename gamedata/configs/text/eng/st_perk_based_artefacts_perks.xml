@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_pba_af_cocoon_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]STONE SKIN\n
+		%c[d_orange] • %c[pda_white] Passive +15% melee damage protection.\n
+		%c[d_orange] • %c[pda_white] Receiving melee damage grants a stack of 'Stone Skin'.\n
+		%c[d_orange] • %c[pda_white] +15% melee damage protection/-10% movement speed per 'Stone Skin' stack.\n
+		%c[d_orange] • %c[pda_white] Maximum 10 stacks.\n
+		%c[d_orange] • %c[pda_white] At 10 stacks, +75% melee damage reduction but become completely immobilized.\n
+		%c[d_orange] • %c[pda_white] Effect lasts 10 seconds, after which all stacks are removed.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_red]YES
+		</text>
+	</string>
+
+	<string id="st_pba_af_cell_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]DISINTEGRATOR\n
+		%c[d_orange] • %c[pda_white] -15% bullet damage received.\n
+		%c[d_orange] • %c[pda_white] Reduced damage is converted to radiation.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_red]YES
+		</text>
+	</string>
+
+	<string id="st_pba_af_fountain_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]LETYSHOPS TIME\n
+		%c[d_orange] • %c[pda_white] Receive 4% cashback on every purchase.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_spaika_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]CRITICAL ASCENSI0N\n
+		%c[d_orange] • %c[pda_white] Passive +10% critical hit damage bonus.\n
+		%c[d_orange] • %c[pda_white] Consecutive hits grant stacks of 'Critical Ascensi0n'.\n
+		%c[d_orange] • %c[pda_white] Each stack of 'Critical Ascensi0n' grants +5% damage to next shot.\n
+		%c[d_orange] • %c[pda_white] Missing a shot removes all stacks and gives psy damage proportional to the amount of stacks removed.\n
+		%c[d_orange] • %c[pda_white] Bonus can be stacked infinitely as long as a shot is not missed.\n
+		%c[d_orange] • %c[pda_white] Unequipping all 'Spike' artefacts will remove stacks without penalty.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_signet_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]LIGHT OF TRANQUILITY\n
+		%c[d_orange] • %c[pda_white] Restores health and psy health while near campfires.\n
+		%c[d_orange] • %c[pda_white] Amplifies psy recovery artefacts while near campfires.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_repei_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]MINOR LACERATIONS\n
+		%c[d_orange] • %c[pda_white] Your weapon loses 50% damage output but gains the ability to cause bleeding damage.\n
+		%c[d_orange] • %c[pda_white] Bleeding damage is proportional to weapon damage.\n
+		%c[d_orange] • %c[pda_white] Increases chance for enemies to surrender.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_bat_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]ZONE ALCHEMY\n
+		%c[d_orange] • %c[pda_white] Grants the ability to transmutate artefacts.\n
+		%c[d_orange] • %c[pda_white] Artefacts can be upgraded to a better tier or "mutated" to a different artefact of the same tier.\n
+		%c[d_orange] • %c[pda_white] Only Perk/Top-tier artefacts may be mutated.\n
+		%c[d_orange] • %c[pda_white] Each transmutation will consume one 'Bat' artefact.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_sun_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]SOLAR POWERED\n
+		%c[d_orange] • %c[pda_white] Grants stat modifiers depending on the current weather:\n
+		%c[d_green] --- %c[pda_white] Clear: Health &amp; Stamina Boost\n
+		%c[d_green] --- %c[pda_white] Partly Clear: Small Stamina Boost\n
+		%c[ui_red] --- %c[pda_white] Other: Stamina Penalty\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+	  
+	<string id="st_pba_af_ear_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]WILL TO LIVE\n
+		%c[d_orange] • %c[pda_white] Grants health regen while under 25% health.\n
+		%c[d_orange] • %c[pda_white] Effect increases the lower your health.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_chelust_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]WEIGHT OF DEVOTION\n
+		%c[d_orange] • %c[pda_white] Passive small health and stamina regen.\n
+		%c[d_orange] • %c[pda_white] Members of Sin are granted triple the effect with the addition of psy health regeneration.\n
+		%c[d_orange] • %c[pda_white] Sin companions also receive health regen.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_atom_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]ARSZI'S BLESSING\n
+		%c[d_orange] • %c[pda_white] Radiation illness grants a stamina boost and slight radiation removal.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_red]YES
+		</text>
+	</string>
+
+	<string id="st_pba_af_lighthouse_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]THE UNORTHODOX WAY OF TRAVELLING\n
+		%c[d_orange] • %c[pda_white] Killing anyone will teleport you to the location of their death.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_fire_loop_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]DEAL WITH THE DEVIL\n
+		%c[d_orange] • %c[pda_white] Moving the artefact to the belt will sign the '%c[ui_red]Pact with the Zone%c[pda_white]'.\n\n
+		%c[d_orange] • %c[ui_red] HIGHLY RECOMMENDED TO SAVE BEFORE ACTIVATION.
+		</text>
+	</string>
+
+	<string id="st_pba_af_zhelch_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]INSANITY\n
+		%c[d_orange] • %c[pda_white] Passive strong psy resistance bonus.\n
+		%c[d_orange] • %c[pda_white] Drains psy health to restore health.\n
+		%c[d_orange] • %c[pda_white] When health is full, restores psy health.\n
+		%c[d_orange] • %c[pda_white] There is a chance you will become possessed and perform uncontrollable actions.\n
+		%c[d_orange] • %c[pda_white] The lower your psy health, the higher the chance and severity of the action.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_sandstone_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]ZONE INFUSION\n
+		%c[d_orange] • %c[pda_white] Stepping into anomalies of various types will infuse your active weapon for 3 minutes.\n
+		%c[d_orange] • %c[pda_white] Infused weapon loses 30% damage output but gain 50% elemental damage output according to the anomaly.\n
+		%c[d_orange] • %c[pda_white] Only electric, thermal and chemical anomalies are valid for infusion.\n
+		%c[d_orange] • %c[pda_white] You may drop an artefact directly onto a weapon to destroy the artefact and infuse the weapon with a random effect for 10 minutes.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_kislushka_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]CALORIC COAGULATION\n
+		%c[d_orange] • %c[pda_white] Drains hunger to cure bleeding.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_red]YES
+		</text>
+	</string>
+
+	<string id="st_pba_af_black_angel_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]DODGE THIS\n
+		%c[d_orange] • %c[pda_white] 20% chance to reflect 35% of bullet damage recived back to the attacker.\n
+		%c[d_orange] • %c[pda_white] Reflections nullify damage.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_red]YES
+		</text>
+	</string>
+
+	<string id="st_pba_af_grapes_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]NECESSARY GLUTTONY\n
+		%c[d_orange] • %c[pda_white] Provides health bonus on food consumption based on calorie intake.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_skull_miser_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]CRACK THE JACKPOT\n
+		%c[d_orange] • %c[pda_white] Upon a lethal headshot on a target, extra money is dropped.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_star_phantom_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]PHANTOM PACIFIST\n
+		%c[d_orange] • %c[pda_white] Become completely invisible for 1.5 minutes.\n
+		%c[d_orange] • %c[pda_white] During invisibility, you may not draw a weapon, talk or 'interact'.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_medallion_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]THE UNLUCKY CHARM\n
+		%c[d_orange] • %c[pda_white] 35% chance that incoming bullet damage will be fully redirected to your companion.\n
+		%c[d_orange] • %c[pda_white] May make some companions suspicious...\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_red]YES
+		</text>
+	</string>
+
+	<string id="st_pba_af_peas_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]NIGHT OWL\n
+		%c[d_orange] • %c[pda_white] Bleeding recovery and movement speed increased from dusk till dawn.\n
+		%c[d_orange] • %c[pda_white] Decreases sleepiness at night but increases sleepiness during the day.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_generator_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]CHARGER\n
+		%c[d_orange] • %c[pda_white] Restores batteries while sprinting.\n
+		%c[d_orange] • %c[pda_white] Will not restore dead batteries or devices with no batteries.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_red]YES
+		</text>
+	</string>
+
+	<string id="st_pba_af_ball_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]THE NUTCRACKER\n
+		%c[d_orange] • %c[pda_white] Allows a mighty mutant kick.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_fonar_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]KLEPTOMANIA\n
+		%c[d_orange] • %c[pda_white] Stashes and items give off a dim light.\n
+		%c[d_orange] • %c[pda_white] Stashes also emit a signal detectable by an RF-Receiver.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_tapeworm_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]STUNNER\n
+		%c[d_orange] • %c[pda_white] Chance to stun mutant if within 2 meters.\n
+		%c[d_orange] • %c[pda_white] Getting hit by a melee attack will stun the attacker for 3 seconds.\n
+		%c[d_orange] • %c[pda_white] While stunned, the enemy is unable to attack.\n
+		%c[d_orange] • %c[pda_white] Self harm (i.e. fall damage) will result in artefact discharge.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_moh_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]CULINARY HYPERVERSITY\n
+		%c[d_orange] • %c[pda_white] Convert energy of raw mutant meat into special abilities.\n
+		%c[d_orange] • %c[pda_white] Lasts for 1 minute. Eating different mutant meat will override the current effect and restart the buff timer.\n \n
+		%c[d_orange]TABLE OF EFFECTS:\n
+		%c[d_cyan] --- %c[pda_white] Flesh Meat: 1%/sec health regen, 33% bullet damage penalty.\n
+		%c[d_cyan] --- %c[pda_white] Boar Chop: 25% melee damage reduction.\n
+		%c[d_cyan] --- %c[pda_white] Dog Meat: Slight bleeding recovery, 1%/sec psy regen.\n
+		%c[d_cyan] --- %c[pda_white] Pseudodog Meat: 2%/sec psy regen, 25% psy damage reduction.\n
+		%c[d_cyan] --- %c[pda_white] Bloodsucker Meat: Become invisible until a hostile action is performed, moderate bleeding recovery.\n
+		%c[d_cyan] --- %c[pda_white] Psysucker Meat: Become invisible until performing a hostile action, 5%/sec psy regen.\n
+		%c[d_cyan] --- %c[pda_white] Snork Hand: 50% radiation damage reduction, 5%/sec stamina regen, 5msv/sec radiation cure, large hunger decrease.\n
+		%c[d_cyan] --- %c[pda_white] Chimera Meat: 2%/sec health regen, 10%/sec stamina regen, 33% radiation damage reduction.\n
+		%c[d_cyan] --- %c[pda_white] Lurker Meat: 33% chem/fire/electric anomaly damage reduction.\n
+		%c[d_cyan] --- %c[pda_white] Rodent Meat: 20% speed increase, 20% melee damage penalty.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_serofim_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]RAIN OF REVIVAL\n
+		%c[d_orange] • %c[pda_white] Upon receiving a fatal blow, the artefact is destroyed and you are instead revived.\n
+		%c[d_orange] • %c[pda_white] 50% health is restored, all debuffs are removed and 5 seconds of damage immunity are granted upon revival.\n
+		%c[d_orange] • %c[pda_white] Upon revival, the current weapon is dropped and vision is negatively effected.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_elektron_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]HIGH VOLTAGE\n
+		%c[d_orange] • %c[pda_white] Stepping on an Electra anomaly will recharge batteries and active devices.\n
+		%c[d_orange] • %c[pda_white] Stepping on an Electra anomaly also allows infinite sprint for a short period of time.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_red]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_kogot_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]BLOODLUST\n
+		%c[d_orange] • %c[pda_white] Passive +10% melee damage.\n
+		%c[d_orange] • %c[pda_white] 3.5% of melee damage is converted to health.\n
+		%c[d_orange] • %c[pda_white] Upon killing certain mutants, there is a chance that raw meat will spawn in the vicinity.\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+	<string id="st_pba_af_dragon_eye_perk">
+		<text>%c[pda_white]PERK: %c[d_orange]ULTRA-VIOLENCE\n
+		%c[d_orange] • %c[pda_white] 5% chance that shots will be explosive.\n
+		%c[d_orange] • %c[pda_white] There is a chance that an npc or mutant killed with an explosive shot will also violently explode.\n
+		%c[d_orange] • %c[pda_white] Effect stacks with multiple artefacts (chance of an explosion).\n
+		%c[d_orange] • %c[pda_white] Multiple Artefacts Stack?: %c[ui_green]YES\n
+		%c[d_orange] • %c[pda_white] Diminishing Returns?: %c[ui_green]NO
+		</text>
+	</string>
+
+</string_table>

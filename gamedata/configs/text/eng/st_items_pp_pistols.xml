@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_ppp_1911_357_fmj">
+		<text>Coonan .357 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_1911_357_fmj_descr">
+		<text>Coonan .357 magazine.</text>
+	</string>
+
+	<string id="st_mag_ppp_svi_45">
+		<text>Strayer-Voight Magazine</text>
+	</string>
+	<string id="st_mag_ppp_svi_45_descr">
+		<text>Strayer-Voight magazine.</text>
+	</string>
+
+	<string id="st_mag_ppp_px4_9x19_fmj">
+		<text>9x19 PX4 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_px4_9x19_fmj_descr">
+		<text>9x19mm PX4 magazine.</text>
+	</string>
+    
+	<string id="st_mag_ppp_px4_45">
+		<text>.45 PX4 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_px4_45_descr">
+		<text>.45 PX4 magazine.</text>
+	</string>
+
+	<string id="st_mag_ppp_sig_9x19_fmj">
+		<text>9x19 SIG P229 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_sig_9x19_fmj_descr">
+		<text>9x19mm SIG P229 magazine.</text>
+	</string>
+
+	<string id="st_mag_ppp_signimble_9x19_fmj">
+		<text>9x19 SIG P320 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_signimble_9x19_fmj_descr">
+		<text>9x19mm SIG P320 magazine.</text>
+	</string>
+    
+	<string id="st_mag_ppp_signimble_45_fmj">
+		<text>.45 SIG P320 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_signimble_45_fmj_descr">
+		<text>.45 SIG P320 magazine.</text>
+	</string>
+
+	<string id="st_mag_ppp_mk23_45">
+		<text>.45 Mark 23 Magazine</text>
+	</string>
+	<string id="st_mag_ppp_mk23_45_descr">
+		<text>.45 Mark 23 magazine.</text>
+	</string>
+
+	<string id="st_ppp_colt1911_762x25_fmj">
+		<text>Modified 7.62x25 Colt Magazine</text>
+	</string>
+	<string id="st_ppp_colt1911_762x25_fmj_descr">
+		<text>Modified 7.62x25mm Colt magazine.</text>
+	</string>
+    
+	<string id="st_ppp_sw_45_fmj">
+		<text>.45 S&amp;W Magazine</text>
+	</string>
+	<string id="st_ppp_sw_45_fmj_descr">
+		<text>.45 S&amp;W magazine.</text>
+	</string>
+
+	<string id="st_ppp_sw_919_fmj">
+		<text>9x19 S&amp;W Magazine</text>
+	</string>
+	<string id="st_ppp_sw_919_fmj_descr">
+		<text>9x19mm S&amp;W magazine.</text>
+	</string>
+
+	<string id="st_ppp_xd9_9x19_fmj">
+		<text>9x19 XD9 Magazine</text>
+	</string>
+	<string id="st_ppp_xd9_9x19_fmj_descr">
+		<text>9x19mm XD9 magazine.</text>
+	</string>
+    
+	<string id="st_ppp_glock_45_fmj">
+		<text>.45 Glock 21 Magazine</text>
+	</string>
+	<string id="st_ppp_glock_45_fmj_descr">
+		<text>.45 Glock 21 magazine.</text>
+	</string>
+
+</string_table>

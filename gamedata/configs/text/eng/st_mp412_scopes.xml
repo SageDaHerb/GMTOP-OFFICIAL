@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	MP412 REX SIGHTS
+-->
+
+<string_table>
+	<string id="st_integrated_docter">
+		<text>DOCTER Sight</text>
+	</string>
+	<string id="st_integrated_docter_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Noblex\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+
+    <string id="st_integrated_compact">
+		<text>Compact Sight</text>
+	</string>
+	<string id="st_integrated_compact_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Various\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Various\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+</string_table>

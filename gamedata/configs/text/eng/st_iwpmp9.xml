@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_mp9">
+		<text>Brugger &amp; Thomet MP9</text>
+	</string>
+	<string id="st_wpn_mp9_descr">
+		<text>A sleek, compact submachine gun designed for rapid, close-range engagements. Its lightweight build and high rate of fire make it ideal for quick, agile combat. With excellent control and a suppressor-compatible design, the MP9 is perfect for those who value stealth and speed, offering a deadly combination of mobility and firepower.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Switzerland\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Brugger &amp; Thomet\n
+		</text>
+	</string>
+
+</string_table>

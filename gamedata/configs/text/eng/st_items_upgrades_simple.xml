@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Upgrading Parts
+-->
+
+<string_table>
+
+<!-- Outfits -->
+	<string id="st_upgr_o_physical">
+		<text>Suit Armor Upgrade Kit</text>
+	</string>
+	<string id="st_upgr_o_physical_desc">
+		<text>A kit containing various types of armor plates, components and fittings for installation of armor-related upgrades.\n\n
+        %c[yellow]Can be used to upgrade:\n
+        %c[d_cyan] • %c[ui_gray_2]Ballistic Resistance\n
+        %c[d_cyan] • %c[ui_gray_2]Impact Resistance\n
+        %c[d_cyan] • %c[ui_gray_2]Rupture Resistance\n
+        %c[d_cyan] • %c[ui_gray_2]Suit durability\n
+        %c[d_cyan] • %c[ui_gray_2]Weight Reduction\n
+        %c[d_cyan] • %c[ui_gray_2]Explosive Resistance\n \n
+        </text>
+    </string>
+	<string id="st_upgr_o_magical">
+		<text>Suit Environmental Protection Upgrade Kit</text>
+	</string>
+	<string id="st_upgr_o_magical_desc">
+		<text>A kit containing various types of specially resistant materials for installation of armor-related upgrades.\n\n
+        %c[yellow]Can be used to upgrade:\n
+        %c[d_cyan] • %c[ui_gray_2]Radiation Resistance\n
+        %c[d_cyan] • %c[ui_gray_2]Chemical Resistance\n
+        %c[d_cyan] • %c[ui_gray_2]Burn Resistance\n
+        %c[d_cyan] • %c[ui_gray_2]Electrical Resistance\n
+        %c[d_cyan] • %c[ui_gray_2]Psychic Resistance\n \n
+        </text>
+    </string>
+	<string id="st_upgr_o_utility">
+		<text>Suit Utility Upgrade Kit</text>
+	</string>
+	<string id="st_upgr_o_utility_desc">
+		<text>A kit containing fastening straps, assorted pouches and various mechanical devices for installation of armor-related utility upgrades.\n\n
+        %c[yellow]Can be used to upgrade:\n
+        %c[d_cyan] • %c[ui_gray_2]Weight Carried\n
+        %c[d_cyan] • %c[ui_gray_2]Belt Slots\n
+        %c[d_cyan] • %c[ui_gray_2]Stamina Recovery\n
+        %c[d_cyan] • %c[ui_gray_2]Health Restoration\n
+        %c[d_cyan] • %c[ui_gray_2]Bleeding Control\n
+        %c[d_cyan] • %c[ui_gray_2]Servomotor Boosters\n \n
+        </text>
+    </string>
+	<string id="st_upgr_w_internal">
+		<text>Weapon Mechanism Upgrade Kit</text>
+	</string>
+	<string id="st_upgr_w_internal_desc">
+		<text>A kit containing high-quality weapon components and tools used to tweak internal weapon mechanisms.\n\n
+        %c[yellow]Can be used to upgrade:\n
+        %c[d_cyan] • %c[ui_gray_2]Reliability\n
+        %c[d_cyan] • %c[ui_gray_2]Recoil Reduction\n
+        %c[d_cyan] • %c[ui_gray_2]Rate of Fire\n
+        %c[d_cyan] • %c[ui_gray_2]Caliber Change\n
+        %c[d_cyan] • %c[ui_gray_2]Fire Modes\n \n
+		</text>
+    </string>
+	<string id="st_upgr_w_external">
+		<text>Weapon Body Upgrade Kit</text>
+	</string>
+	<string id="st_upgr_w_external_desc">
+		<text>A kit containing tools used to modify and maintain the body of a weapon, including the barrel, rail, mount and weapon furniture.\n \n
+        %c[yellow]Can be used to upgrade:\n
+        %c[d_cyan] • %c[ui_gray_2]Flatness\n
+        %c[d_cyan] • %c[ui_gray_2]Accuracy\n
+        %c[d_cyan] • %c[ui_gray_2]Handling\n
+        %c[d_cyan] • %c[ui_gray_2]Weapon Weight\n
+        %c[d_cyan] • %c[ui_gray_2]Attachment Points\n \n
+		</text>
+    </string>
+	<string id="st_upgr_w_optical">
+		<text>Optical Scope Upgrade Kit</text>
+	</string>
+	<string id="st_upgr_w_optical_desc">
+		<text>A kit containing high quality lenses and optics suitable for replacement on binoculars and rifle scopes.\n \n
+		</text>
+    </string>
+
+	<string id="st_try_combine">
+		<text>Upgrade</text>
+	</string>
+	<string id="st_try_downgrade">
+		<text>Downgrade</text>
+	</string>
+	<string id="ui_mcm_menu_supgrades">
+		<text>Upgrades</text>
+	</string>
+	<string id="ui_mcm_supgrades_title">
+		<text>Streamlined Gear Upgrades</text>
+	</string>
+
+	<string id="ui_mcm_supgrades_drop">
+		<text>Drop Chance</text>
+	</string>
+	<string id="ui_mcm_supgrades_drop_desc">
+		<text>Percentage chance that existing upgrade kits get replaced with the new generic kits.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_mossberg590a1_rail">
+		<text>Mossberg 590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_rail_s">
+		<text>M590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_rail_descr">
+		<text>
+		The Mossberg 590A1 is a hammerless pump-action shotgun designed by Carl Benson. Modified due to Navy requests, this improved model has an aluminum trigger guard and safety, a heavier barrel, and a bayonet lug. Intended for use under extreme conditions, this weapon became the standard shotgun in the United States military. This example includes a receiver-mounted Picatinny rail.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]O.F. Mossberg &amp; Sons\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mossberg590a1_wood">
+		<text>Mossberg 590A1 Retrograde</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_wood_s">
+		<text>M590A1 Retrograde</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_wood_descr">
+		<text>
+		The Mossberg 590A1 is a hammerless pump-action shotgun designed by Carl Benson. Modified due to Navy requests, this improved model has an aluminum trigger guard and safety, a heavier barrel, and a bayonet lug. Intended for use under extreme conditions, this weapon became the standard shotgun in the United States military. The "Retrograde" line bears features from classic Mossberg 590 combat shotguns, such as walnut furniture.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]O.F. Mossberg &amp; Sons\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_mossberg590a1">
+		<text>Mossberg 590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_s">
+		<text>M590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_descr">
+		<text>
+		The Mossberg 590A1 is a hammerless pump-action shotgun designed by Carl Benson. Modified due to Navy requests, this improved model has an aluminum trigger guard and safety, a heavier barrel, and a bayonet lug. Intended for use under extreme conditions, this weapon became the standard shotgun in the United States military.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]O.F. Mossberg &amp; Sons\n
+		</text>
+	</string>
+	
+</string_table>

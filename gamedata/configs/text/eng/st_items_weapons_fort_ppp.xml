@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+<!--
+Overwrites
+fort
+-->
+	<string id="st_wpn_fort12">
+		<text>Fort-12</text>
+	</string>
+	<string id="st_wpn_fort12_descr">
+		<text>Needing a pistol to replace the Russian-made PM, Ukraine created the Fort-12. A formidable weapon largely considered a success, though it falls short when compared to the reliability of the PM. Fortunately, the Fort-12 more than makes up for it in accuracy, magazine size and ergonomics.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Ukraine\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]RPC Fort\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_fort17">
+		<text>Fort-17</text>
+	</string>
+	<string id="st_wpn_fort17_descr">
+		<text>The latest development of the Ukrainian state owned FORT factory, the Fort-17 is a polymer framed modification of the earlier Fort-12 pistol. All mechanisms and properties are almost identical between the two pistols, however the Fort-17 is much lighter than its predecessor.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Ukraine\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]RPC Fort\n
+		</text>
+	</string>
+
+<!--
+Overwrites
+fort_snag
+-->
+	<string id="st_wpn_fort21">
+		<text>Fort-21</text>
+	</string>
+	<string id="st_wpn_fort21_descr">
+		<text>A copy of the Jericho 941 based on the highly regarded CZ-75 short recoil system, the Fort-21, like the Jericho 941, combines proven design and function with IWI’s exceptionally high standards for reliable performance, accuracy and quality construction.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Ukraine\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]RPC Fort\n
+		</text>
+	</string>
+
+	<string id="st_up_fort21_45acp_name">
+		<text>Rechamber to .45 ACP</text>
+	</string>
+
+</string_table>

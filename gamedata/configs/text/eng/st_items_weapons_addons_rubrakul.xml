@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+	
+	<string id="st_addon_sil_ash12">
+		<text>CKIB ASH-12 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_ash12_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 12.7x55mm\n \n</text>
+	</string>
+
+	<string id="st_addon_scope_specterup">
+		<text>S.U.P. Special Upgrade Kit [SA-58]</text>
+	</string>
+	<string id="st_addon_scope_specterup_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[d_cyan] • %c[ui_gray_2] ANPEQ15 LAM\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_sup">
+		<text>S.U.P. Special Upgrade Pack</text>
+	</string>
+	<string id="st_addon_scope_sup_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_silencerco">
+		<text>SilencerCO Salvo 12 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_silencerco_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 12 gauge\n
+		</text>
+	</string>
+
+</string_table>

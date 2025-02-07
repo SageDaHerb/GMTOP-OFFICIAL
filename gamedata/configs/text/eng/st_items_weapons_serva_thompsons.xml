@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_thompson_m1a1">
+		<text>Thompson M1A1</text>
+	</string>
+	<string id="st_wpn_thompson_m1a1_descr">
+		<text>The Thompson is a blowback-operated, air-cooled, magazine-fed selective-fire submachine gun. The M1A1 variant has a significantly reduced fire-rate and a simplified design produced on request of the US Army for cheaper mass production during WWII. As a result, the Blish lock, oiling system and compensator were removed and the alternative receiver no longer accepts drum mags.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer:  %c[ui_gray_2] Birmingham Small Arms\n
+		</text>
+	</string>
+
+	<string id="st_wpn_thompson_1921">
+		<text>Thompson Model 1921</text>
+	</string>
+	<string id="st_wpn_thompson_1921_descr">
+		<text>Originally developed to replace the bolt-action service rifles in use by the United States army, the Thompson is a blowback-operated, air-cooled, magazine-fed selective-fire submachine gun. This variant of the Thompson, also nicknamed the "Chicago Typewriter" features a faster fire-rate and the Blish Lock system for weapon operation that is missing from the later M1A1 model.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer:  %c[ui_gray_2]Auto-Ordnance Company\n
+		</text>
+	</string>
+
+	<string id="st_up_m1a1_b8_name">
+		<text>Heavier Barrel</text>
+	</string>
+	<string id="st_up_m1a1_b8_descr">
+		<text>Installation of a heavier barrel to improve recoil.</text>
+	</string>
+	<string id="st_up_m1a1_b5_name">
+		<text>Polymer Stock</text>
+	</string>
+	<string id="st_up_m1a1_b5_descr">
+		<text>Installation of polymer stock for weight reduction.</text>
+	</string>
+	<string id="st_up_m1a1_b6_name">
+		<text>Polymer Handguard</text>
+	</string>
+	<string id="st_up_m1a1_b6_descr">
+		<text>Installation of polymer handguard for weight reduction.</text>
+	</string>
+		<string id="st_up_m1a1_b7_name">
+		<text>Anti-Corrosive Parts</text>
+	</string>
+	<string id="st_up_1921_b7_descr">
+		<text>Installation of anti-corrosive components to decrease weapon degradation.</text>
+	</string>
+
+	<string id="st_up_1921_b8_name">
+		<text>High Quality Imported Parts</text>
+	</string>
+	<string id="st_up_1921_b8_descr">
+		<text>Installation of imported, higher quality parts to increase reliability.</text>
+	</string>
+	<string id="st_up_1921_b5_name">
+		<text>Polymer Stock</text>
+	</string>
+	<string id="st_up_1921_b5_descr">
+		<text>Installation of polymer stock for weight reduction.</text>
+	</string>
+	<string id="st_up_1921_b6_name">
+		<text>Polymer Handguard</text>
+	</string>
+	<string id="st_up_1921_b6_descr">
+		<text>Installation of polymer handguard for weight reduction.</text>
+	</string>
+		<string id="st_up_1921_b7_name">
+		<text>Anti-Corrosive Parts</text>
+	</string>
+	<string id="st_up_1921_b7_descr">
+		<text>Installation of anti-corrosive components to decrease weapon degradation.</text>
+	</string>
+
+	<string id="st_up_1921_b9_name">
+		<text>Re-engineered Blish Lock Mechanism</text>
+	</string>
+	<string id="st_up_1921_b9_descr">
+		<text>Installation of a tweaked locking mechanism to greatly enhance reliability.</text>
+	</string>
+
+</string_table>

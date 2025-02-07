@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+
+	<string id="st_addon_scope_mauser_kit">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_mauser_kit_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Lightweight polymer stock and receiver\n
+		%c[d_cyan] • %c[ui_gray_2] High zoom variable scope\n
+		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n \n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_orange] • %c[ui_gray_2] Mauser K98\n
+		</text>
+	</string>
+	
+</string_table>

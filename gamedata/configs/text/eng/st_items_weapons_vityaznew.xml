@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_vityaznew">
+		<text>PP-19-01 Vityaz</text>
+	</string>
+	<string id="st_wpn_vityaznew_descr">
+		<text>The "knight" is a blowback-operated submachine gun designed for the Vityaz, an elite anti-terrorist unit. It is a variant of the PP-19 Bizon based on and sharing many commonalities with the AK-74, though while directly developed from the Bizon, the Vityaz features a more conventional appearance. Today, it is used by patrol groups, Russian traffic police, Russian security police and by units of the MVD.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Kalashnikov Concern\n
+		</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>PSO-1M</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>1P29 Tulip</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Soviet Union\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_ac10632">
+		<text>Barska Electro Sight</text>
+	</string>
+	<string id="st_addon_scope_ac10632_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Barska\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>ACOG 4.0x</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_eotech">
+		<text>EOTech 553</text>
+	</string>
+	<string id="st_addon_scope_eotech_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]EOTech\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_galil_susat">
+		<text>Galil 4.0x SUSAT</text>
+	</string>
+	<string id="st_addon_scope_galil">
+		<text>Galil 4.0x SUSAT</text>
+	</string>
+	<string id="st_addon_scope_galil_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Isreal\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Israel Military Industries\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_kobra">
+		<text>Kobra EKP 1S-03</text>
+	</string>
+	<string id="st_addon_scope_kobra_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Axion\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_po4x34">
+		<text>PO4x34</text>
+	</string>
+	<string id="st_addon_scope_po4x34_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]TsKIB SOO\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>PSO-1M2-1</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pu">
+		<text>PU Scope</text>
+	</string>
+	<string id="st_addon_scope_pu_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Soviet Union\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]3.5x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_zf4">
+		<text>ZF-4 Scope</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Germany\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Nazi Germany\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]2.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_cmore">
+        <text>C-MORE Tactical Sight</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]C-More Systems\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+    </string>
+	
+	<string id="st_addon_scope_ac11090">
+        <text>AC11090 Red Dot</text>
+    </string>
+    <string id="st_addon_scope_ac11090_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Barska\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]2.0x\n \n
+		</text>
+    </string>
+	
+	<string id="st_addon_sil_45">
+		<text>.45 ACP Suppressor</text>
+	</string>
+	<string id="st_addon_sil_45_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] .45\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_57">
+		<text>5.7x28 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_57_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Belgium\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.7mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_6p9">
+		<text>6P9 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_6p9_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_9a91">
+		<text>9A-91/VSK-94 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_9a91_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9x39mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_9mm">
+		<text>9mm Suppressor</text>
+	</string>
+	<string id="st_addon_sil_9mm_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Varies\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_aps">
+		<text>APS Suppressor</text>
+	</string>
+	<string id="st_addon_sil_aps_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_atg">
+		<text>ATG Suppressor</text>
+	</string>
+	<string id="st_addon_sil_atg_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.56mm, 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_gemtech">
+		<text>Gemtech Suppressor</text>
+	</string>
+	<string id="st_addon_sil_gemtech_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9mm, .45\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_kzrzp">
+		<text>KZRZP Suppressor</text>
+	</string>
+	<string id="st_addon_sil_kzrzp_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_nato">
+		<text>NATO Suppressor</text>
+	</string>
+	<string id="st_addon_sil_nato_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Belgium\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] .45, 5.56mm, 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs1">
+		<text>PBS-1 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs1_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs4">
+		<text>PBS-4 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs4_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.45mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_sr25">
+		<text>SR-25 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_sr25_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_tgp-a">
+		<text>TGP-A Suppressor</text>
+	</string>
+	<string id="st_addon_sil_tgp-a_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.45mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_vihr">
+		<text>SR-3M Suppressor</text>
+	</string>
+	<string id="st_addon_sil_vihr_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9x39mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_silencer">
+		<text>US Army Smallbore Rifle Suppressor</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.56x45mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_silencer_svu">
+		<text>SVU Suppressor</text>
+	</string>
+	<string id="st_addon_silencer_svu_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SVU Rifles\n
+		</text>
+	</string>
+	
+	<string id="st_addon_trijicon_acog">
+		<text>ACOG 2.0x</text>
+	</string>
+	<string id="st_addon_trijicon_acog_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]2.0x\n \n
+		</text>
+	</string>
+	
+</string_table>

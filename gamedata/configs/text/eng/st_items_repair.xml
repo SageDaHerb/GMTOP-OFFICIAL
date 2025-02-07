@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+<!--
+	WEAPON PART MAINTENANCE
+-->
+
+	<string id="st_rasp_tool">
+		<text>File</text>
+	</string>
+	<string id="st_rasp_tool_descr">
+		<text>A file, used to clean and restore weapon parts.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Weapon Part Maintenance\n
+		</text>
+	</string>
+
+	<string id="st_leatherman_tool">
+		<text>Multitool</text>
+	</string>
+	<string id="st_leatherman_tool_descr">
+		<text>A tool used to disassemble weapons and armor.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Disassembling Tool\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Weapon Part Maintenance\n
+		</text>
+	</string>
+	
+	<string id="st_ramrod_tool">
+		<text>Ramrod</text>
+	</string>
+	<string id="st_ramrod_tool_descr">
+		<text>A tool used to clean and restore weapon parts.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Weapon Part Maintenance\n
+		</text>
+	</string>
+
+	<string id="st_cleaning_kit_u">
+		<text>Universal Weapon Part Cleaning Kit</text>
+	</string>
+	<string id="st_cleaning_kit_u_descr">
+		<text>Advanced gun cleaning kit fitting all common weapon calibers. The set comprises a small portion of efficient lubricant and cleaning solvent as well as some light tools to facilitate access to inner mechanisms of a firearm.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Weapon Part Maintenance\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Weapons\n
+		</text>
+	</string>
+
+<!--
+	OUTFIT PART MAINTENANCE
+-->
+
+	<string id="st_sewing_thread">
+		<text>Sewing Thread</text>
+	</string>
+	<string id="st_sewing_thread_descr">
+		<text>Sewing thread made of many different materials including cotton, linen, nylon, and silk.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Outfit Part Maintenance\n
+		</text>
+	</string>
+
+	<string id="st_heavy_sewing_thread">
+		<text>Field Armor Toolkit</text>
+	</string>
+	<string id="st_heavy_sewing_thread_descr">
+		<text>An advanced toolkit for sewing and sealing retardants. Includes Kevlar thread, one of the strongest and most heat resistant commercially available threads. A great choice for high stress applications including sewing seams on to heavy duty clothing.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Outfit Part Maintenance\n
+		</text>
+	</string>
+
+<!--
+	WEAPON REPAIR
+-->
+
+	<string id="st_solvent">
+		<text>Cleaning Solvent "Hoppe's No. 9"</text>
+	</string>
+	<string id="st_solvent_descr">
+		<text>Western-made, high-quality firearm cleaning solvent intended for lubricating and protecting firearms. However, the oil requires adequate tools to be spread properly. "No. 9" should thus be regarded as more of an add-on than a stand-alone maintenance item.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Increasing Overall Weapon Condition\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Weapons\n
+		</text>
+	</string>
+
+	<string id="st_gun_oil">
+		<text>Spray Lubricant "Brunox Gun Care"</text>
+	</string>
+	<string id="st_gun_oil_descr">
+		<text>Spray can containing oil intended for lubricating and protecting firearms. Frequent application will prevent guns from malfunctioning and corroding. However, the oil requires adequate tools to be spread properly. "Brunox" should thus be regarded as more of an add-on than a stand-alone maintenance item.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Increasing Overall Weapon Condition\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Weapons\n
+		</text>
+	</string>
+
+	<string id="st_gun_oil_ru_d">
+		<text>Cleaning Solvent "Dvojka"</text>
+	</string>
+	<string id="st_gun_oil_ru_d_descr">
+		<text>Iconic Red Army oil that has been in service for almost 70 years, intended for lubricating and protecting firearms. The metal bottle is divided into two separate compartments, one for oil and the other for the cleaning solvent. However, the oil requires adequate tools to be spread properly. "Dvojka" should thus be regarded as more of an add-on than a stand-alone maintenance item.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Increasing Overall Weapon Condition\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Weapons\n
+		</text>
+	</string>
+
+	<string id="st_gun_oil_ru">
+		<text>Gun Oil "Rusak"</text>
+	</string>
+	<string id="st_gun_oil_ru_descr">
+		<text>Plastic bottle containing a budget Russian mineral gun oil intended for lubricating and protecting firearms. However, the oil requires adequate tools to be spread properly. "Rusak" should thus be regarded as more of an add-on than a stand-alone maintenance item.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Increasing Overall Weapon Condition\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Weapons\n
+		</text>
+	</string>
+
+<!--
+	OUTFIT REPAIR
+-->
+
+	<string id="st_sewing_kit_b">
+		<text>Sewing Kit (Basic)</text>
+	</string>
+	<string id="st_sewing_kit_b_descr">
+		<text>A light sewing kit consisting of a cloth reel, several steel needles and a pair of scissors. Can be used to sew up bullet holes or ruptures in soft fabrics of outfits.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Outfits &amp; Light Headgear Sets\n
+		</text>
+	</string>
+
+	<string id="st_sewing_kit_a">
+		<text>Sewing Kit (Advanced)</text>
+	</string>
+	<string id="st_sewing_kit_a_descr">
+		<text>An advanced sewing kit containing better sewing accessories than its basic counterpart. Double reels of nylon thread and a large selection of higher-quality needles make it suitable for working on thicker and harder materials, including lighter mutant skins and artificial fibers.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Outfits &amp; Light Headgear Sets\n
+		</text>
+	</string>
+	
+	<string id="st_sewing_kit_h">
+		<text>Sewing Kit (Heavy)</text>
+	</string>
+	<string id="st_sewing_kit_h_descr">
+		<text>This military-grade, heavy sewing kit is designed to handle fractures in protective plates of modern combat armors. It contains enough metallic thread to put together outfits that have literally been torn apart. Capable of sewing on even the hardest of mutant hides.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Outfits &amp; Light Headgear Sets\n
+		</text>
+	</string>
+
+	<string id="st_glue_e">
+		<text>Glue Tube "M17"</text>
+	</string>
+	<string id="st_glue_e_descr">
+		<text>M17 is a result of a Soviet military-industrial research project intended to devise an extremely potent, single-ingredient adhesive which could be used in any situation regardless of purpose and the materials involved. There is almost no damage that the glue won't be able to repair. Can be used with all materials available in the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Outfits &amp; Light Headgear Sets\n
+		</text>
+	</string>
+
+	<string id="st_glue_a">
+		<text>Glue Tube "Tur"</text>
+	</string>
+	<string id="st_glue_a_descr">
+		<text>A modified epoxy-based adhesive produced by the Ukrainian chemical industry to quickly bind most solid materials. The glue binds both textile fabrics and lighter protective materials like Kevlar, but is useless when it comes to metals.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Outfits &amp; Light Headgear Sets\n
+		</text>
+	</string>
+
+	<string id="st_glue_b">
+		<text>Glue Tube "Zviezda"</text>
+	</string>
+	<string id="st_glue_b_descr">
+		<text>Cheapest of the synthetic adhesives available in the Zone, this epoxy-based solution may be used to put together slightly torn pieces of fabric or to patch up small holes.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Outfits &amp; Light Headgear Sets\n
+		</text>
+	</string>
+
+	<string id="st_light_repair_kit">
+		<text>Armor Repair Kit (Light)</text>
+	</string>
+	<string id="st_light_repair_kit_descr">
+		<text>This complex and heavy set includes everything necessary, from ultra-durable threads and needles to polymer-based patches, for conducting complete repairs on any hi-tech armor. Can be used regardless of materials involved, be it heavy cloth or military-grade Kevlar sheets.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Very Light &amp; Light Armor\n
+		</text>
+	</string>
+	
+	<string id="st_medium_repair_kit">
+		<text>Armor Repair Kit (Medium)</text>
+	</string>
+	<string id="st_medium_repair_kit_descr">
+		<text>This complex and heavy set includes everything necessary, from ultra-durable threads and needles to polymer-based patches, for conducting complete repairs on any hi-tech armor. Can be used regardless of materials involved, be it heavy cloth or military-grade Kevlar sheets.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Medium Armor\n
+		</text>
+	</string>
+
+	<string id="st_exolight_repair_kit">
+		<text>Armor Repair Kit (Heavy)</text>
+	</string>
+	<string id="st_exolight_repair_kit_descr">
+		<text>This complex and heavy set includes everything necessary, from ultra-durable threads and needles to polymer-based patches, for conducting complete repairs on any hi-tech armor. Can be used regardless of materials involved, be it heavy cloth or military-grade Kevlar sheets.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Heavy Armor\n
+		</text>
+	</string>
+
+	<string id="st_exo_repair_kit">
+		<text>Armor Repair Kit (Exoskeleton)</text>
+	</string>
+	<string id="st_exo_repair_kit_descr">
+		<text>This complex and heavy set includes everything necessary, from ultra-durable threads and needles to polymer-based patches, for conducting complete repairs on any hi-tech armor. Can be used regardless of materials involved, be it heavy cloth or military-grade Kevlar sheets.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Exoskeletons\n
+		</text>
+	</string>
+
+	<string id="st_helmet_repair_kit">
+		<text>Repair Kit (Headgear)</text>
+	</string>
+	<string id="st_helmet_repair_kit_descr">
+		<text>This kit contains everything that is needed to perform effective repair of modern combat helmets. It features heavy tools that will allow work on hard materials such as Kevlar, steel or titanium, as well as a very strong, methacrylate-based adhesive.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] Medium &amp; Heavy Headgear Sets\n
+		</text>
+	</string>
+
+	<string id="st_armor_repair_fa">
+		<text>Armor Repair Kit (Emergency)</text>
+	</string>
+	<string id="st_armor_repair_fa_descr">
+		<text>A repair set allowing emergency outfit repairs. Includes military grade duct tape and ready-to-use sheets of thick textile in a variety of shapes and sizes making it possible to quickly patch up any outfit damage.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Equipment\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Outfits &amp; Light Headgear Sets\n
+		</text>
+	</string>
+
+<!--
+	MELEE REPAIR
+--> 
+
+	<string id="st_sharpening_stones">
+		<text>Sharpening Stone Set</text>
+	</string>
+	<string id="st_sharpening_stones_descr">
+		<text>A grindstone set for sharpening blades and knives, packed in a polyester bag.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2] Repairing Knives\n
+		%c[d_orange] • %c[pda_white] Compatibility: %c[ui_gray_2] All Knives\n
+		</text>
+	</string>
+
+<!--
+	EMPTY BOXES
+-->
+
+	<string id="st_repair_kit_p_empty">
+		<text>Repair Kit (Empty)</text>
+	</string>
+	<string id="st_repair_kit_p_empty_descr">
+		<text>Empty metal box which previously contained tools and spare parts usable for maintaining 9mm, .45 and .357 caliber firearms.\n \n
+		%c[pda_white]PROPERTIES:\n
+		</text>
+	</string>
+
+	<string id="st_repair_kit_r7_empty">
+		<text>Repair Kit (Empty)</text>
+	</string>
+	<string id="st_repair_kit_r7_empty_descr">
+		<text>Empty metal box which previously contained tools and spare parts usable for maintaining large caliber firearms.\n \n
+		%c[pda_white]PROPERTIES:\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_s_empty">
+		<text>Repair Kit (Empty)</text>
+	</string>
+	<string id="st_repair_kit_s_empty_descr">
+		<text>Empty metal box which previously contained tools and spare parts usable for maintaining 12ga caliber firearms.\n \n
+		%c[pda_white]PROPERTIES:\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r5_empty">
+		<text>Rifle Repair Kit (Empty)</text>
+	</string>
+	<string id="st_repair_kit_r5_empty_descr">
+		<text>Empty metal box which previously contained tools and spare parts usable for maintaining 5.45 and 5.56 caliber firearms.\n \n
+		%c[pda_white]PROPERTIES:\n
+		</text>
+	</string>
+
+<!-- UNUSED
+
+	<string id="st_cleaning_kit_s">
+		<text>"Aurora A108/12" 12 Gauge Cleaning Kit</text>
+	</string>
+	<string id="st_cleaning_kit_s_descr">
+		<text>A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. Such sets are quite commonly used in the Zone in order to keep firearms in a good shape at all times.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for cleaning dirty weapon parts\n
+		%c[d_orange] • %c[ui_gray_2] right-click weapon > maintain parts > clean part\n \n
+		%c[pda_white]Compatibility: 
+		%c[d_orange] • %c[ui_gray_2] 12ga\n
+		</text>
+	</string>
+
+	<string id="st_cleaning_kit_r7">
+		<text>Medium &amp; Large Caliber Rifle Cleaning Kit</text>
+	</string>
+	<string id="st_cleaning_kit_r7_descr">
+		<text>A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. Such sets are quite commonly used in the Zone in order to keep firearms in a good shape at all times.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for cleaning dirty weapon parts\n
+		%c[d_orange] • %c[ui_gray_2] right-click weapon > maintain parts > clean part\n \n
+		%c[pda_white]Compatibility: 
+		%c[d_orange] • %c[ui_gray_2] 7.62, 7.92, 9x39, .338\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_p">
+		<text>"Progress" Handgun Cleaning Kit</text>
+	</string>
+	<string id="st_cleaning_kit_p_descr">
+		<text>A set of specialized brushes used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. Such sets are quite commonly used in the Zone in order to keep firearms in a good shape at all times.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for cleaning dirty weapon parts\n
+		%c[d_orange] • %c[ui_gray_2] right-click weapon > maintain parts > clean part\n \n
+		%c[pda_white]Compatibility: 
+		%c[d_orange] • %c[ui_gray_2] 9mm, .45, .357\n
+		</text>
+	</string>
+
+	<string id="st_cleaning_kit_r5">
+		<text>"ValuPro III" Smallbore Rifle Cleaning Kit</text>
+	</string>
+	<string id="st_cleaning_kit_r5_descr">
+		<text>A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. Such sets are quite commonly used in the Zone in order to keep firearms in a good shape at all times.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for cleaning dirty weapon parts\n
+		%c[d_orange] • %c[ui_gray_2] right-click weapon > maintain parts > clean part\n \n
+		%c[pda_white]Compatibility: 
+		%c[d_orange] • %c[ui_gray_2] 5.45, 5.56\n
+		</text>
+	</string>
+
+	<string id="st_repair_kit_p">
+		<text>Handgun Repair Kit</text>
+	</string>
+	<string id="st_repair_kit_p_descr">
+		<text>This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of weapon mechanisms. Also comes with a set of elementary firearm spare parts. Quite heavy but irreplaceable when venturing deep into the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for replacing gun parts\n
+		%c[d_orange] • %c[ui_gray_2] right-click gun > maintain parts > replace part\n \n
+		%c[pda_white]Compatibility: 
+		%c[d_orange] • %c[ui_gray_2] 9mm, .45, .357\n
+		</text>
+	</string>
+
+	<string id="st_repair_kit_s">
+		<text>Shotgun Repair Kit</text>
+	</string>
+	<string id="st_repair_kit_s_descr">
+		<text>This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of weapon mechanisms. Also comes with a set of elementary firearm spare parts. Quite heavy but irreplaceable when venturing deep into the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for replacing gun parts\n
+		%c[d_orange] • %c[ui_gray_2] right-click gun > maintain parts > replace part\n \n
+		%c[pda_white]Compatibility: 
+		%c[d_orange] • %c[ui_gray_2] 12ga\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r5">
+		<text>Smallbore Rifle Repair Kit</text>
+	</string>
+	<string id="st_repair_kit_r5_descr">
+		<text>This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of weapon mechanisms. Also comes with a set of elementary firearm spare parts. Quite heavy but irreplaceable when venturing deep into the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for replacing gun parts\n
+		%c[d_orange] • %c[ui_gray_2] right-click gun > maintain parts > replace part\n \n
+		%c[pda_white]Compatibility: 
+		%c[d_orange] • %c[ui_gray_2] 5.45, 5.56\n
+		</text>
+	</string>
+
+	<string id="st_repair_kit">
+		<text>Heavy Outfit Repair Kit</text>
+	</string>
+	<string id="st_repair_kit_descr">
+		<text>This complex and heavy set includes everything necessary, from ultra-durable threads and needles to polymer-based patches, for conducting complete repairs on any hi-tech armor. Can be used regardless of materials involved, be it heavy cloth or military-grade Kevlar sheets.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[ui_gray_2] usable for repairing equipment\n \n
+		%c[pda_white]Compatibility: 
+		%c[d_orange] • %c[ui_gray_2] all outfits and headgear sets\n
+		</text>
+	</string>
+
+-->
+
+</string_table>

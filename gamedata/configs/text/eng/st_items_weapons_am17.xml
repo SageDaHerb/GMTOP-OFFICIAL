@@ -1,0 +1,15 @@
+
+<string_table>
+
+	<string id="st_wpn_am17">
+		<text>AM-17</text>
+	</string>
+	<string id="st_wpn_am17_descr">
+		<text>A compact and ergonomic rifle based on the Yevgeny Dragunov MA Compact Rifle, intended primarily for military and law enforcement units of the Russian Interior Ministry, National Guard and Army to replace the AKS-74U. The weapon has an integrated full-length Picatinny railing, polymer side-folding and adjustable shoulder stock and longitudinal slots in the walls of the upper receiver allowing for ambidextrous controls in both the fire selector and charging handle. Its compact size and versatility make it suitable for close-quarters combat as well as medium-range engagements.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[0,255,255,255] Manufacturer: %c[ui_gray_2]Kalashnikov Concern\n
+		</text>
+	</string>
+	
+</string_table>

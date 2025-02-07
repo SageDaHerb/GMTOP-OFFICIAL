@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	WEAPONS ATTACHMENTS
+-->
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>PSO-1M</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>1P29 Tulip</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Soviet Union\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_ac10632">
+		<text>Barska Electro Sight</text>
+	</string>
+	<string id="st_addon_scope_ac10632_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Barska\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>ACOG 4.0x</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_eotech">
+		<text>EOTech 553</text>
+	</string>
+	<string id="st_addon_scope_eotech_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]EOTech\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+		
+	<string id="st_addon_scope_kobra">
+		<text>Kobra EKP 1S-03</text>
+	</string>
+	<string id="st_addon_scope_kobra_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Axion\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>PSO-1M2-1</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+		
+	<string id="st_addon_scope_cmore">
+        <text>C-MORE Tactical Sight</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]C-More Systems\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+    </string>
+		
+	<string id="st_addon_sil_57">
+		<text>5.7x28 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_57_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Belgium\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.7mm\n
+		</text>
+	</string>
+			
+	<string id="st_addon_sil_9mm">
+		<text>9mm Suppressor</text>
+	</string>
+	<string id="st_addon_sil_9mm_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Varies\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9mm\n
+		</text>
+	</string>
+		
+	<string id="st_addon_sil_atg">
+		<text>ATG Suppressor</text>
+	</string>
+	<string id="st_addon_sil_atg_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.56mm, 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_gemtech">
+		<text>Gemtech Suppressor</text>
+	</string>
+	<string id="st_addon_sil_gemtech_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9mm, .45\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_kzrzp">
+		<text>KZRZP Suppressor</text>
+	</string>
+	<string id="st_addon_sil_kzrzp_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_nato">
+		<text>NATO Suppressor</text>
+	</string>
+	<string id="st_addon_sil_nato_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Belgium\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] .45, 5.56mm, 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs1">
+		<text>PBS-1 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs1_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs4">
+		<text>PBS-4 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs4_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.45mm\n
+		</text>
+	</string>
+		
+	<string id="st_addon_sil_tgp-a">
+		<text>TGP-A Suppressor</text>
+	</string>
+	<string id="st_addon_sil_tgp-a_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.45mm\n
+		</text>
+	</string>
+		
+	<string id="st_addon_silencer">
+		<text>US Army Smallbore Rifle Suppressor</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.56x45mm\n
+		</text>
+	</string>
+		
+	<string id="st_addon_trijicon_acog">
+		<text>ACOG 2.0x</text>
+	</string>
+	<string id="st_addon_trijicon_acog_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]2.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_okp-7">
+		<text>OKP-7</text>
+	</string>
+	<string id="st_addon_scope_okp-7_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_rmr">
+		<text>RMR Red Dot</text>
+	</string>
+	<string id="st_addon_scope_rmr_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_aimpoint">
+		<text>Aimpoint Red Dot</text>
+	</string>
+	<string id="st_addon_scope_aimpoint_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Aimpoint\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_ekp8_02">
+		<text>Kobra EKP 8-02 Red Dot</text>
+	</string>
+	<string id="st_addon_scope_ekp8_02_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Kobra-Axion\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_specterDR">
+		<text>ELCAN SpecterDR</text>
+	</string>
+	<string id="st_addon_scope_specterDR_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Raytheon ELCAN\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso2">
+		<text>PSO-1М</text>
+	</string>
+	<string id="st_addon_scope_pso2_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics State Plant\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_0kp2">
+		<text>OKP-7</text>
+	</string>
+	<string id="st_addon_scope_0kp2_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Various Manufacturers\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_d0cter">
+		<text>Docter Sight III</text>
+	</string>
+	<string id="st_addon_scope_d0cter_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Germany\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NOBLEX E-Optics\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p59">
+		<text>1P59 Giperon</text>
+	</string>
+	<string id="st_addon_scope_1p59_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Various Manufacturers\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 8.0x\n \n
+		</text>
+	</string>	
+	
+	<string id="st_addon_scope_1pn93">
+		<text>1PN93-4 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_1pn93_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]3.7x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_leupold">
+		<text>Leupold Mark 8</text>
+	</string>
+	<string id="st_addon_scope_leupold_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 8.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_mepro">
+		<text>Meprolight M21</text>
+	</string>
+	<string id="st_addon_scope_mepro_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Meprolight\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_aim_low">
+		<text>Micro T1</text>
+	</string>
+	<string id="st_addon_scope_aim_low_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Aimpoint\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_aimpoint_pro">
+		<text>Aimpoint PRO</text>
+	</string>
+	<string id="st_addon_scope_aimpoint_pro_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Aimpoint\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p76">
+		<text>1P76 Rakurs-A</text>
+	</string>
+	<string id="st_addon_scope_1p76_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Optics\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_pka">
+		<text>PK-A Red Dot</text>
+	</string>
+	<string id="st_addon_scope_pka_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]BelOMO\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_ekp8_18">
+		<text>EKP 8-18 Red Dot</text>
+	</string>
+	<string id="st_addon_scope_ekp8_18_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Kobra\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>	
+	
+	<string id="st_addon_sil_salvo">
+		<text>Salvo 12 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_salvo_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 12 gauge\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_deltapoint">
+		<text>Deltapoint PRO Red Dot</text>
+	</string>
+	<string id="st_addon_scope_deltapoint_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_e0t2">
+		<text>EOTech XPS3-0</text>
+	</string>
+	<string id="st_addon_scope_e0t2_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]EOTech\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pn23">
+		<text>PN-23 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_pn23_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]KULA\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]3.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_gauss_sight">
+		<text>EOTS-62 Sight</text>
+	</string>
+	<string id="st_addon_scope_gauss_sight_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Ukraine\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]REDACTED\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x - 8.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_hexagon">
+		<text>Hexagon SKS 7.62x39 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_hexagon_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62mm\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_marchf">
+		<text>March Tactical 3-24x42 FFP</text>
+	</string>
+	<string id="st_addon_scope_marchf_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Japan\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]DEON Optical Design\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]3.0x - 24.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pgo7gs">
+		<text>PGO-7</text>
+	</string>
+	<string id="st_addon_scope_pgo7gs_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Soviet Union\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_rakurs">
+		<text>1P76 Rakurs-A</text>
+	</string>
+	<string id="st_addon_scope_rakurs_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Factory\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_compm4s">
+		<text>Aimpoint CompM4s</text>
+	</string>
+	<string id="st_addon_scope_compm4s_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Aimpoint\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_susat">
+		<text>SUSAT</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United Kingdom\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Avimo\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1p78gs">
+		<text>1P78 Kashtan</text>
+	</string>
+	<string id="st_addon_scope_1p78gs_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]NPZ Factory\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]2.8x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1pn93n2_1gs">
+		<text>1PN93-1 Night Sight</text>
+	</string>
+	<string id="st_addon_scope_1pn93n2_1gs_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_kemper">
+		<text>Kemper XL-M</text>
+	</string>
+	<string id="st_addon_scope_kemper_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Firefield\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_usp1">
+		<text>1P29 Tulpan</text>
+	</string>
+	<string id="st_addon_scope_usp1_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_rotor">
+		<text>Rotor 43 7.62x54 Muzzle Brake</text>
+	</string>
+	<string id="st_addon_sil_rotor_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2]7.62mm\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_trijicon_rmr">
+		<text>Trijicon Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_trijicon_rmr_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG BAC 5.56 BDC sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n \n
+		</text>
+	</string>	
+	
+	<string id="st_addon_scope_mark8_rmr">
+		<text>Leupold RMR Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_mark8_rmr_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Leupold Mark 8 CQBSS sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_spec_alt">
+		<text>SpecterDR-RMR Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_spec_alt_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_kashtan_rmr">
+		<text>Kashtan RMR Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_kashtan_rmr_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Tochpribor 1P78 Kashtan sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_psicho_rmr">
+		<text>PSO RMR S Sight Kit</text>
+	</string>
+	<string id="st_addon_scope_psicho_rmr_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] BelOMO PSO-1М2-1 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_hex23">
+		<text>Swine-23 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_hex23_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 23mm\n \n
+		</text>
+	</string>		
+	
+	<string id="st_addon_sil_aac762">
+		<text>AAC 7.62 SDN-6 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_aac762_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62mm\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_sil_tgpv">
+		<text>TGP-V Suppressor</text>
+	</string>
+	<string id="st_addon_sil_tgpv_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 7.62mm\n \n
+		</text>
+	</string>		
+	
+	<string id="st_addon_sil_osp9">
+		<text>Osprey-9 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_osp9_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9mm\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_pmm">
+		<text>PMM Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pmm_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9mm\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_geks545">
+		<text>Hexagon Suppressor</text>
+	</string>
+	<string id="st_addon_sil_geks545_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 5.45mm, 7.62mm\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_kek12">
+		<text>Hexagon 12K Suppressor</text>
+	</string>
+	<string id="st_addon_sil_kek12_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 12 gauge\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_black_box">
+		<text>AAC Black Box Suppressor</text>
+	</string>
+	<string id="st_addon_sil_black_box_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] 9mm, .45\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_23_up">
+		<text>510mm KS-23 Barrel</text>
+	</string>
+	<string id="st_addon_scope_23_up_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] KS-23\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_daniel">
+		<text>Daniel Defence Wave QD Suppressor</text>
+	</string>
+	<string id="st_addon_sil_daniel_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_sr1m">
+		<text>SR1M Gyurza Suppressor</text>
+	</string>
+	<string id="st_addon_sil_sr1m_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Serdyukov SR1M Gyurza\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_silen98">
+		<text>Suppressor Adapter</text>
+	</string>
+	<string id="st_addon_scope_silen98_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] adapter or muzzle device for use with suppressor\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Mauser 98k Forester\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_forester">
+		<text>98k Suppressor</text>
+	</string>
+	<string id="st_addon_sil_forester_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Mauser 98k Forester\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_lazup_pl15">
+		<text>LAM Sight</text>
+	</string>
+	<string id="st_addon_scope_lazup_pl15_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]1.0x\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Lebedev PL-15\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_lapu7">
+		<text>"Deer Hunter" Suppressor</text>
+	</string>
+	<string id="st_addon_sil_lapu7_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700 "Deer Hunter"\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_pl15">
+		<text>PL-15 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_pl15_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Lebedev PL-15\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_spec_isg">
+		<text>Rifle Dynamics ISG Suppressor</text>
+	</string>
+	<string id="st_addon_sil_spec_isg_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] ISG Fire Arms: 5.45mm, 7.62mm\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_apb">
+		<text>APS Suppressor</text>
+	</string>
+	<string id="st_addon_sil_apb_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] APS Stechkin\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kp_sr2">
+		<text>KP-SR2 Reflex Sight</text>
+	</string>
+	<string id="st_addon_scope_kp_sr2_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Russia\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SR-2M Veresk\n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_veresk">
+		<text>GZV-SR2 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_veresk_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SR-2M Veresk\n \n
+		</text>
+	</string>
+
+	<string id="st_grenade_launcher_monolit">
+		<text>"Guard" 30mm Grenade Launcher</text>
+	</string>
+	<string id="st_grenade_launcher_monolit_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Russia\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] AK-12 "Monolith's Light"\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_auga">
+		<text>Steyr UMS Suppressor</text>
+	</string>
+	<string id="st_addon_sil_auga_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Austria\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Steyr AUG\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_m42k">
+		<text>AAC M4-2000 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_m42k_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] M4A1 RAS, L85A2\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_susatov">
+		<text>SUSAT 4.0x Sight</text>
+	</string>
+	<string id="st_addon_scope_susatov_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United Kingdom\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Royal Armament Research Development\n
+		%c[d_cyan] • %c[pda_white] Magnification: %c[ui_gray_2]4.0x\n \n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] L85A2\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_surfire">
+		<text>Surefire SOCOM556-MONSTER Suppressor</text>
+	</string>
+	<string id="st_addon_sil_surfire_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]United States\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] M4A1 "Protector"\n \n
+		</text>
+	</string>
+
+	<string id="st_grenade_launcher_scar">
+		<text>FN40GL 40mm Grenade Launcher</text>
+	</string>
+	<string id="st_grenade_launcher_scar_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Belgium\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] FN SCAR-H\n \n
+		</text>
+	</string>
+
+	<string id="st_grenade_launcher_l85">
+		<text>M320 40mm Grenade Launcher</text>
+	</string>
+	<string id="st_grenade_launcher_l85_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Germany\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] L85A2\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_sil_kac4">
+		<text>KAC QDSS NT-4 5.56x45 Suppressor</text>
+	</string>
+	<string id="st_addon_sil_kac4_descr">
+		<text>%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Japan\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2]Howa Type 20\n	
+		</text>
+	</string>
+
+<!--
+	TACTICAL KITS
+-->
+	<string id="st_addon_scope_mono_kit">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_mono_kit_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] ergonomic forend for installation of 30mm under-barrel grenade launcher\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n
+		%c[d_cyan] • %c[ui_gray_2] TNVC AN/PEQ-16 LAM illumination module\n
+		%c[d_cyan] • %c[ui_gray_2] 60 round drum mag\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] АК-12 "Monolith"\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kit_aus_tri">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_kit_aus_tri_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
+		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+		%c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
+		%c[d_cyan] • %c[ui_gray_2] 21" barrel\n
+		%c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
+		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n \n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_kit_fal_leup">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_kit_fal_leup_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
+		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+		%c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
+		%c[d_cyan] • %c[ui_gray_2] 21" barrel\n
+		%c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
+		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Leupold Mark 8 CQBSS sight\n \n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_kit_sa5x_spec">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_kit_sa5x_spec_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Fab AG FAL pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 Extreme Duty dust cover\n
+		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+		%c[d_cyan] • %c[ui_gray_2] Vltor CASV foregrip\n
+		%c[d_cyan] • %c[ui_gray_2] 21" barrel\n
+		%c[d_cyan] • %c[ui_gray_2] DSA BRS stock\n
+		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n \n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_226sig_kit">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_226sig_kit_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] threaded barrel for use with suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SIG P226R\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mod9">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_mod9_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] threaded barrel for use with suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+		%c[d_cyan] • %c[ui_gray_2] Viridian X5L laser sight\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Walther P99\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_upg220">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_upg220_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] threaded barrel for use with suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+		%c[d_cyan] • %c[ui_gray_2] Viridian X5L laser sight\n
+		%c[d_cyan] • %c[ui_gray_2] 12 round magazine\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SIG P220\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_sr1upgr1">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_sr1upgr1_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] threaded barrel for use with suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium iron sights\n
+		%c[d_cyan] • %c[ui_gray_2] laser sight module\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Serdyukov SR1M Gyurza\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kab_up">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_kab_up_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] threaded barrel for use with suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] KS-23M Drozd\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_archangel">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_archangel_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Archangel polymer stock\n
+		%c[d_cyan] • %c[ui_gray_2] set of 20 round magazines\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_magpul_pro">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_magpul_pro_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Magpul PRO 700 polymer stock\n
+		%c[d_cyan] • %c[ui_gray_2] set of 12 round magazines\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mod_x_gen3">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_mod_x_gen3_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] ABAC MOD X GEN III Modular Rifle System\n
+		%c[d_cyan] • %c[ui_gray_2] set of 12 round magazines\n
+		%c[d_cyan] • %c[ui_gray_2] Leupold DeltaPoint PRO sight\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_swamp">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_swamp_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] extended forend\n
+		%c[d_cyan] • %c[ui_gray_2] ergonomic stock and pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] improved trigger\n
+		%c[d_cyan] • %c[ui_gray_2] Elcan SpecterDR DFOV14-C2 sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[d_cyan] • %c[ui_gray_2] AN/PEQ-15 LAM laser module\n
+		%c[d_cyan] • %c[ui_gray_2] set of 45 round magazines\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] AK-105\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_lapua700">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_lapua700_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] .338 barrel for use with a suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] Magpul Pro stock\n
+		%c[d_cyan] • %c[ui_gray_2] set of .338LM magazines\n
+		%c[d_cyan] • %c[ui_gray_2] improved Leupold sight\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_gurza_up">
+		<text>SR1M Gyurza Advanced Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_gurza_up_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] Quadrail mount\n
+		%c[d_cyan] • %c[ui_gray_2] LAM\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SR1M Gyurza\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_u2p2g0r">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_u2p2g0r_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] threaded barrel for use with suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+		%c[d_cyan] • %c[ui_gray_2] Viridian X5L laser module\n
+		%c[d_cyan] • %c[ui_gray_2] 19 round magazine\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Sig Sauer P220\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_shakal">
+		<text>"Shakal" Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_shakal_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] extended forend\n
+		%c[d_cyan] • %c[ui_gray_2] ergonomic stock and pistol grip\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon ACOG sight\n
+		%c[d_cyan] • %c[ui_gray_2] Trijicon RMR sight\n
+		%c[d_cyan] • %c[ui_gray_2] AN/PEQ-15 LAM laser module\n
+		%c[d_cyan] • %c[ui_gray_2] set of 45 round magazine\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] AK-105\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pl15_scolaz">
+		<text>PL-15 Advanced Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_pl15_scolaz_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] LAM\n
+		%c[d_cyan] • %c[ui_gray_2] Aimpoint T1 scope\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] Lebedev PL-15\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_apsabigo">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_apsabigo_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] threaded barrel for use with suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] Tritium sights\n
+		%c[d_cyan] • %c[ui_gray_2] ergonomic pistol grip\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] APS\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_sr2_upkit">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_sr2_upkit_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] tactical forend\n
+		%c[d_cyan] • %c[ui_gray_2] Picatinny rail\n
+		%c[d_cyan] • %c[ui_gray_2] LAM\n
+		%c[d_cyan] • %c[ui_gray_2] KP-SR2 Reflex Sight\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] SR-2M Veresk\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_5c_tik">
+		<text>Tactical Kit</text>
+	</string>
+	<string id="st_addon_scope_5c_tik_descr">
+		<text>%c[pda_white]KIT INCLUDES:\n
+		%c[d_cyan] • %c[ui_gray_2] shortened barrel\n
+		%c[d_cyan] • %c[ui_gray_2] low profile foregrip\n
+		%c[d_cyan] • %c[ui_gray_2] LA5 LAM\n
+		%c[d_cyan] • %c[ui_gray_2] Leupold Carbine Optic sight\n
+		%c[d_cyan] • %c[ui_gray_2] D-EVO 6.0x scope\n
+		%c[d_cyan] • %c[ui_gray_2] modified gas module for increased RoF\n
+		%c[pda_white]COMPATIBILITY:\n
+		%c[d_cyan] • %c[ui_gray_2] AK 5C\n \n
+		</text>
+	</string>
+
+<!--
+	UNUSED
+-->	
+	<string id="st_addon_scope_pks">
+		<text>PKS-07 Sight(NOT IN USE)</text>
+	</string>
+	<string id="st_addon_scope_pks_descr">
+		<text>.</text>
+	</string>
+
+	<string id="st_addon_sil_osprey">
+		<text>Предмет больше не используется в аддоне / The Item is no longer in use in the addon
+		</text>
+	</string>
+	<string id="st_addon_sil_osprey_descr">
+		<text>.</text>
+	</string>
+	
+</string_table>

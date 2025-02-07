@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+<!--Overwrites 'spas-12', 'spas12_custom', 'spas_nimble'-->
+	<string id="st_wpn_spas12_new">
+		<text>SPAS-12</text>
+	</string>
+	<string id="st_wpn_spas12_descr_new">
+		<text>A dual-mode shotgun designed for combat and anti-riot measures, the SPAS-12 is employed by many special military and police units around the world. With its distinctive heat shield and folding stock, it is an iconic firearm, notable for its reliability and tactical flexibility. Despite its heavy weight, complex mechanisms and considerable cost, it remains a tried and true choice.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Italy\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Franchi\n
+		</text>
+	</string>
+
+</string_table>

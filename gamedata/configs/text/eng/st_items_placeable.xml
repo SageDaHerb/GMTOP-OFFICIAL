@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+<!--
+	PROPS
+-->
+
+	<string id="st_placeable_light_altar">
+		<text>Compact Psi-Light</text>
+	</string>
+	<string id="st_placeable_light_altar_descr">
+		<text>An object of unknown origin and purpose. Originally, this strange object emitted lethal psi-waves and was the cause of death to many unsuspecting stalkers who braved the northern areas. This one was modified by Sakharov and, with the help of a Moonlight artefact, became a source of limitless light.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		%c[d_cyan] • %c[pda_white] Fuel: %c[ui_gray_2]Gauss Batteries\n
+		</text>
+	</string>
+
+	<string id="st_placeable_gas_lamp">
+		<text>Gas Lamp</text>
+	</string>
+	<string id="st_placeable_gas_lamp_descr">
+		<text>Generates light by igniting a wick doused in kerosene.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		%c[d_cyan] • %c[pda_white] Fuel: %c[ui_gray_2]Kerosene\n
+		</text>
+	</string>
+
+	<string id="st_placeable_metal_torch">
+		<text>Metal Torch</text>
+	</string>
+	<string id="st_placeable_metal_torch_descr">
+		<text>A soviet-era handheld flashlight. This particular model can be constructed in the field.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		%c[d_cyan] • %c[pda_white] Fuel: %c[ui_gray_2]Batteries\n
+		</text>
+	</string>
+
+	<string id="st_placeable_radio">
+		<text>Radio</text>
+	</string>
+	<string id="st_placeable_radio_descr">
+		<text>A radio in working condition. It is able to receive the same signals as those heard in many bases throughout the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+
+<!--
+	FUNCTIONAL PROPS
+-->
+
+	<string id="st_placeable_exo_kit">
+		<text>Empty Exoskeleton Repair Kit</text>
+	</string>
+	<string id="st_placeable_exo_kit_descr">
+		<text>An empty case stripped of any useful items, though the capacity and size are sufficient when reused as storage.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Item Storage\n
+		%c[d_orange] • %c[pda_white] Usable As Stash\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+
+	<string id="st_placeable_case">
+		<text>Gun Case</text>
+	</string>
+	<string id="st_placeable_case_descr">
+		<text>An empty gun case void of any weaponry. It provides more space than conventional backpacks at the cost of weight.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Item Storage\n
+		%c[d_orange] • %c[pda_white] Usable As Stash\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+
+	<string id="st_placeable_blue_box">
+		<text>Metal Box</text>
+	</string>
+	<string id="st_placeable_blue_box_descr">
+		<text>A spacious metal box dedicated for storing items. It provides the most space compared to alternatives, but its heavy weight make it harder to transport.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Item Storage\n
+		%c[d_orange] • %c[pda_white] Usable As Stash\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+
+    <string id="st_placeable_piano">
+		<text>Portable Keyboard</text>
+	</string>
+	<string id="st_placeable_piano_descr">
+		<text>A luxury installation not often seen in the Zone. Although it does not offer any protection against mutants or hostile stalkers, it can provide a brief respite against the hostilities of the Zone.\n \n
+		%c[pda_white]PROPERTIES:\n		
+		%c[d_orange] • %c[pda_white] Placeable\n
+		%c[d_orange] • %c[pda_white] Playable\n
+		</text>
+	</string>
+
+	<string id="st_placeable_workshop">
+		<text>Portable Workshop</text>
+	</string>
+	<string id="st_placeable_workshop_descr">
+		<text>A combination of a deployable table, workshop tools and an integrated stash. This allows stalkers to be more self-sufficient in less than friendly areas, though its weight is a deterrent against crafting on the road.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		%c[d_orange] • %c[pda_white] Item Storage\n
+		%c[d_orange] • %c[pda_white] Usable As Stash\n
+		%c[d_orange] • %c[pda_white] Use: %c[ui_gray_2]Repairing Equipment\n
+		</text>
+	</string>
+
+	<string id="st_placeable_sumka6">
+		<text>Small Backpack</text>
+	</string>
+	<string id="st_placeable_sumka6_descr">
+		<text>Small cloth sheets sewn together to form a simple sack. Useful for creating a small stash in a pinch.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Item Storage\n
+		%c[d_orange] • %c[pda_white] Usable As Stash\n
+		%c[d_orange] • %c[pda_white] Placeable\n
+		</text>
+	</string>
+
+<!--
+	UI
+-->
+
+    <string id="st_place_furniture">
+		<text>Place Item</text>
+	</string>
+
+</string_table>

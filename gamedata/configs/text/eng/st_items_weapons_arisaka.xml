@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_arisaka">
+		<text>Arisaka Type 38</text>
+	</string>
+	<string id="st_wpn_arisaka_descr">
+		<text>The standard infantry bolt-action rifle of the Imperial Japanese Army from 1905 to the end of World War II. Despite having a rough introduction, the Arisaka has been vastly improved over the years and has proven to be incredibly accurate and reliable even in adverse conditions. These days, it is a long-sought after relic of the past.\n \n
+		%c[pda_white]PROPERTIES:\n
+		%c[d_cyan] • %c[pda_white] Origin: %c[ui_gray_2]Empire of Japan\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]Empire of Japan\n
+		</text>
+	</string>
+	
+	<string id="st_up_add_arisaka_name">
+		<text>Rechamber to 7.92x57</text>
+	</string>
+	
+</string_table>
